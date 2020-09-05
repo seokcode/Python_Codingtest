@@ -28,14 +28,17 @@ def simulate():
         for y in range(m):
             if a[x][y] == '.':  # 미네랄이 없으면 떨어뜨릴게 없음
                 continue
-            if c[x][y]:  # 이미 미네랄이 떨어진 경우
+            if c[x][y]:  # 이미 미네랄이 그룹핑이 되었고 떨어진 경우
                 continue
+
             group = []
             dfs(x,y,c,group)  # 떨어질 때 한 뭉텅이로 떨어지는 미네랄 그룹 지어주기
             low = [-1]*m  # 각각의 열마다 한 그룹의 제일 밑이 어딘지 파악하기 위함
-            for gx,gy in group:
+
+            for gx,gy in group:  # 미네랄이 밑으로 내려갔기때문에 빈 자리가 되는 곳 표시
                 low[gy] = max(low[gy],gx)
                 a[gx][gy] = '.'
+
             lowest = n
             for j in range(m):
                 if low[j] == -1:
