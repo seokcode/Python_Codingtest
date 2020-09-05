@@ -32,7 +32,7 @@ def bfs(a):
             if b[i][j] == 0:
                 cnt += 1
     return cnt
-# ------여기까진 BFS-------#
+# ------여기까진 BFS------- #
 
 n,m = map(int,input().split())
 a = [list(map(int,input().split())) for _ in range(n)]
@@ -41,30 +41,39 @@ ans = 0
 # 벽 3개 세우기 벽 하나 당 2중포문 한 쌍 => 6중 포문
 for x1 in range(n):
     for y1 in range(m):
-        if a[x1][y1] != 0:
+        if a[x1][y1] != 0:  # 벽 1
             continue
         for x2 in range(n):
             for y2 in range(m):
-                if a[x2][y2] != 0:
+                if a[x2][y2] != 0:  # 벽 2
                     continue
                 for x3 in range(n):
                     for y3 in range(m):
-                        if a[x3][y3] != 0:
+                        if a[x3][y3] != 0:  # 벽 3
                             continue
+
+                        # 벽1,2,3이 세워질 위치가 같지 않기 위해 확인
+                        # 같으면 다시 찾기 위해 넘김
                         if x1 == x2 and y1 == y2:
                             continue
                         if x1 == x3 and y1 == y3:
                             continue
                         if x2 == x3 and y2 == y3:
                             continue
+
+                        # 벽 세우기
                         a[x1][y1] = 1
                         a[x2][y2] = 1
                         a[x3][y3] = 1
+
                         cur = bfs(a)
                         if ans < cur:
-                            ans = cur
+                            ans = cur  # 최댓값 구하기
+
+                        # 한 턴 끝났으니 다른 케이스를 위해 초기화
                         a[x1][y1] = 0
                         a[x2][y2] = 0
                         a[x3][y3] = 0
-#-----브루트포스-----#
+# -----브루트포스----- #
+
 print(ans)
