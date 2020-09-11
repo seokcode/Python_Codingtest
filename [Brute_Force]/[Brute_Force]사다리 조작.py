@@ -56,7 +56,6 @@ for i in range(1, h+1):
         # 사다리를 놓을 수 있는 곳이면 append
         a.append((i, j))
 
-
 # 기본 값에서 별도의 사다리를 추가하지 않아도 정답이 된다면 종료
 if go():
     print(0)
