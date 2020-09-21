@@ -17,7 +17,7 @@ while q:
     now = q.popleft()
 
     # u 버튼을 눌러서 올라간 곳이 건물 꼭대기 층수 이하이고 방문한 적 없는 곳이라면
-    if now + u <= f and not check[now+u]:
+    if now + u <= f and not check[now+u]:  # 순서 주의
         dist[now+u] = dist[now] + 1
         check[now+u] = True
         q.append(now+u)
