@@ -4,4 +4,4 @@
 - https://www.acmicpc.net/problem/ 문제번호
 
 ## Baekjoon
-* [Brute Force](/studypath/baekjoon/brutefoce.md)
+* [Brute Force](/studypath/baekjoon/bruteforce.md)
