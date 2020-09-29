@@ -57,7 +57,7 @@ for i in range(n):
             nx, ny = x+dx[k], y+dy[k]
             if nx < 0 or nx >= n or ny < 0 or ny >= m:
                 continue
-            if d[nx][ny] == d[x][y]:
+            if d[nx][ny] == d[x][y]:  # 방번호가 같으면 건너 뜀
                 continue
             if (a[x][y] & (1<<k)) > 0:
                 if ans < room[d[x][y]]+room[d[nx][ny]]:
