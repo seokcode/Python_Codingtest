@@ -4,4 +4,9 @@
 - https://www.acmicpc.net/problem/ 문제번호
 
 ## Baekjoon
-* [Brute Force](/studypath/baekjoon/bruteforce.md)
+* [Brute Force](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5BBrute%20force%5D)
+* [DP](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5BDP%5D)
+* [greedy](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5Bgreedy%5D)
+* [그래프와BFS](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5B그래프와BFS%5D)
+* [시뮬레이션](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5B시뮬레이션%5D)
+* [math](https://github.com/snowedev/Algorithm/tree/master/baekjoon/%5Bmath%5D)
