@@ -15,4 +15,5 @@
 
 ## 프로그래머스
 **[고득점Kit]**
-[K번째수](./programmers/K번째수.md)
+
+[K번째수](./programmers/readme/K번째수.md)
