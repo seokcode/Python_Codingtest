@@ -1,6 +1,9 @@
 # K번째수
+> lv1
+>
 > 2020-12-08
-https://programmers.co.kr/learn/courses/30/lessons/42748
+>
+> https://programmers.co.kr/learn/courses/30/lessons/42748
 
 ### Sol
 commands가 2차원 배열로 주어지기 때문에 1차원 배열로서 나누어 주어야 했다.
