@@ -1,5 +1,4 @@
-# ⌨️ Algorithm 
-## 잘 모르겠으면 동작 순서대로 차근차근 살펴보기
+# Algorithm for Coding Test - 풀 수 있따!  
 
 ## 백준
 > 문제링크: https://www.acmicpc.net/problem/ 문제번호
