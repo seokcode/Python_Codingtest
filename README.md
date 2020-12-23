@@ -29,7 +29,7 @@
 
 [[DFS,BFS] 네트워크-lv3](./programmers/readme/네트워크.md)
 
-[[DFS,BFS] 단어변경-lv3](./programmers/readme/단어변경.md)
+[[DFS,BFS] 단어변환-lv3](./programmers/readme/단어변환.md)
 
 **[2019 카카오 개발자 겨울 인턴십]**
 
