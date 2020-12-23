@@ -15,7 +15,7 @@
 
 [[정렬] K번째수-lv1](./programmers/readme/K번째수.md)
 
-[[정렬] 가장큰수-lv2(참조풀이)](./programmers/readme/가장큰수.md)
+[[정렬] 가장큰수-lv2](./programmers/readme/가장큰수.md)
 
 [[정렬] H-Index-lv2](./programmers/readme/H-Index.md)
 
@@ -28,6 +28,8 @@
 [[DFS,BFS] 타겟넘버-lv2](./programmers/readme/타겟넘버.md)
 
 [[DFS,BFS] 네트워크-lv3](./programmers/readme/네트워크.md)
+
+[[DFS,BFS] 단어변경-lv3](./programmers/readme/단어변경.md)
 
 **[2019 카카오 개발자 겨울 인턴십]**
 
