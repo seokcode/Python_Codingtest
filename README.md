@@ -24,6 +24,6 @@
 | 고득점Kit | 20.12.21 | DFS,BFS |  네트워크 | lv3 | [이동](./programmers/readme/네트워크.md) |
 | 고득점Kit | 20.12.23 | DFS,BFS |  단어변환 | lv3 | [이동](./programmers/readme/단어변환.md) |
 | 고득점Kit | 20.12.24 | DFS,BFS |  여행경로 | lv3 | [이동](./programmers/readme/여행경로.md) |
-| Summer/Winter Coding(~2018) | 20.12.27 | 음.. |  여행경로 | lv3 | [이동](./programmers/readme/여행경로.md) |
+| Summer/Winter Coding(~2018) | 20.12.27 | 음.. |  스킬트리 | lv2 | [이동](./programmers/readme/스킬트리.md) |
 
 
