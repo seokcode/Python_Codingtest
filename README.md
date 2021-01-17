@@ -1,7 +1,7 @@
 # Algorithm for Coding Test - 풀 수 있따!  
 
 ## 백준
-> 문제링크: https://www.acmicpc.net/problem/ 문제번호
+> 문제링크: https://www.acmicpc.net/problem/ 문제번호  
 
 | 알고리즘 구분 | 이동 | 알고리즘 구분 | 이동 | 
 | :----------: | :----------: | :----------: | :----------: | 
