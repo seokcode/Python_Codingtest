@@ -1,7 +1,17 @@
 # Algorithm for Coding Test - 풀 수 있따!  
 
 ## 백준
-> 문제링크: https://www.acmicpc.net/problem/ 문제번호  
+
+
+<details>
+<summary>문제링크</summary>
+<div markdown="1">       
+
+https://www.acmicpc.net/problem/ 문제번호
+
+</div>
+</details>
+
 
 | 알고리즘 구분 | 이동 | 알고리즘 구분 | 이동 | 
 | :----------: | :----------: | :----------: | :----------: | 
@@ -11,6 +21,18 @@
 
 
 ## 프로그래머스
+
+
+<details>
+<summary>문제링크</summary>
+<div markdown="1">       
+
+https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
+
+</div>
+</details>
+
+
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | lv | 리드미 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 고득점Kit | 20.12.08 | 정렬 |  K번째수 | lv1 | [이동](./programmers/readme/K번째수.md) |
