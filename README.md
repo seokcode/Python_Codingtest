@@ -13,7 +13,7 @@ https://www.acmicpc.net/problem/ 문제번호
 </details>
 
 
-| 알고리즘 구분 | 이동 | 알고리즘 구분 | 이동 | 
+| 알고리즘 구분 | 바로가기 | 알고리즘 구분 | 바로가기 | 
 | :----------: | :----------: | :----------: | :----------: | 
 | 브루트포스 | [💡](./baekjoon/[Bruteforce]) | DP | [💡](./baekjoon/[DP]) |
 | greedy | [💡](./baekjoon/[greedy]) | DFS/BFS | [💡](./baekjoon/[그래프와BFS]) |
