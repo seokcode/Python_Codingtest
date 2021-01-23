@@ -49,6 +49,6 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 고득점Kit | 20.12.23 | DFS,BFS |  단어변환 | lv3 | [이동](./programmers/readme/단어변환.md) |
 | 고득점Kit | 20.12.24 | DFS,BFS |  여행경로 | lv3 | [이동](./programmers/readme/여행경로.md) |
 | Summer/Winter Coding(2018) | 20.12.27 | 음.. |  스킬트리 | lv2 | [이동](./programmers/readme/스킬트리.md) |
-| Summer/Winter Coding(2019) | 20.01.23 | 음.. |  멀쩡한 사각형 | lv2 | [이동](./programmers/readme/멀쩡한사각형.md) |
+| Summer/Winter Coding(2019) | 20.01.23 | 최대공약수 |  멀쩡한 사각형 | lv2 | [이동](./programmers/readme/멀쩡한사각형.md) |
 
 
