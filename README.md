@@ -1,4 +1,6 @@
-# Algorithm for Coding Test - 풀 수 있따!  
+# Algorithm for Coding Test
+
+> 2021-01-25~ 공포의 맹장 알고리즘 스터디😈
 
 ## 백준
 
@@ -13,11 +15,14 @@ https://www.acmicpc.net/problem/ 문제번호
 </details>
 
 
-| 알고리즘 구분 | 바로가기 | 알고리즘 구분 | 바로가기 | 
+| 알고리즘 구분 | 기초 | 문제 | 연습 | 
 | :----------: | :----------: | :----------: | :----------: | 
-| 브루트포스 | [💡](./baekjoon/[Bruteforce]) | DP | [💡](./baekjoon/[DP]) |
-| greedy | [💡](./baekjoon/[greedy]) | DFS/BFS | [💡](./baekjoon/[그래프와BFS]) |
-| 시뮬레이션 | [💡](./baekjoon/[시뮬레이션]) | math | [💡](./baekjoon/[math]) |
+| 브루트포스 | [🌱](./baekjoon/[Bruteforce]/기초) | [📚](./baekjoon/[Bruteforce]/문제) | [📝](./baekjoon/[Bruteforce]/연습) |
+| DP | [🌱](./baekjoon/[DP]/기초) | [📚](./baekjoon/[DP]/문제1) | [📝](./baekjoon/[DP]/연습) |
+| greedy | - | - | [📝](./baekjoon/[greedy]) |
+| DFS/BFS | [🌱](./baekjoon/[그래프와BFS]/기초) | [📚](./baekjoon/[그래프와BFS]/문제1) | [📝](./baekjoon/[그래프와BFS]/연습) |
+| 시뮬레이션 | - | - | [📝](./baekjoon/[시뮬레이션]) 
+| math | - | - | [📝](./baekjoon/[math]) |
 
 <br>
 
