@@ -2,7 +2,9 @@
 
 > 2021-01-25~ 공포의 맹장 알고리즘 스터디😈
 
-## 백준
+<br>
+
+## 백준(20.08.03~10.01)
 
 
 <details>
@@ -17,7 +19,7 @@ https://www.acmicpc.net/problem/ 문제번호
 
 | 알고리즘 구분 | 기초 | 문제 | 연습 | 
 | :----------: | :----------: | :----------: | :----------: | 
-| 브루트포스 | [🌱](./baekjoon/[Bruteforce]/기초) | [📚](./baekjoon/[Bruteforce]/문제) | [📝](./baekjoon/[Bruteforce]/연습) |
+| 브루트포스 | [🌱](./baekjoon/[Bruteforce]/기초) | [📚](./baekjoon/[Bruteforce]/문제1) | [📝](./baekjoon/[Bruteforce]/연습) |
 | DP | [🌱](./baekjoon/[DP]/기초) | [📚](./baekjoon/[DP]/문제1) | [📝](./baekjoon/[DP]/연습) |
 | greedy | - | - | [📝](./baekjoon/[greedy]) |
 | DFS/BFS | [🌱](./baekjoon/[그래프와BFS]/기초) | [📚](./baekjoon/[그래프와BFS]/문제1) | [📝](./baekjoon/[그래프와BFS]/연습) |
@@ -27,7 +29,7 @@ https://www.acmicpc.net/problem/ 문제번호
 <br>
 
 
-## 프로그래머스
+## 프로그래머스(21.12.08~)
 
 
 <details>
