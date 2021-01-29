@@ -61,5 +61,6 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 문제 아카이브 | 20.01.24 | 스택,큐 |  프린터 | lv2 | [이동](./programmers/readme/프린터.md) |
 | 문제 아카이브 | 20.01.25 | 스택,큐 |  기능개발 | lv2 | [이동](./programmers/readme/기능개발.md) |
 | 문제 아카이브 | 20.01.28 | DP | N으로 표현 | lv3 | [이동](./programmers/readme/N으로표현.md) |
+| 2020 KAKAO BLIND RECRUITMENT | 20.01.29 | 구현 | 괄호변환 | lv2 | [이동](./programmers/readme/괄호변환.md) |
 
 
