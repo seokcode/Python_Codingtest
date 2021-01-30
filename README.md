@@ -71,5 +71,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 20.01.28 | DP | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv.3 | [이동](./programmers/readme/N으로표현.md) |
 | 프로그래머스 | 20.01.29 | 구현 | [2020 KAKAO BLIND RECRUITMENT-괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2 | [이동](./programmers/readme/괄호변환.md) |
 | 프로그래머스 | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [이동](./programmers/readme/체육복.md) |
+| 프로그래머스 | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.1 | [이동](./programmers/readme/큰수만들기.md) |
+
 
 
