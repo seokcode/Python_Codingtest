@@ -73,6 +73,8 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [이동](./programmers/readme/체육복.md) |
 | 프로그래머스 | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [이동](./programmers/readme/큰수만들기.md) |
 | 2019 국가 교육기관 코딩 테스트 | 21.01.31 | 그리디 |  [큰 수의 법칙](./programmers/readme/큰수의법칙.md) | 쉬움 | [이동](./programmers/readme/큰수의법칙.md) |
+| 프로그래머스 | 21.01.31 | 스택 |  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [이동](./programmers/readme/문자열압축.md) |
+
 
 
 
