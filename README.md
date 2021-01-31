@@ -65,11 +65,11 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 20.12.23 | DFS,BFS |  [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | Lv.3 | [이동](./programmers/readme/단어변환.md) |
 | 프로그래머스 | 20.12.24 | DFS,BFS |  [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Lv.3 | [이동](./programmers/readme/여행경로.md) |
 | 프로그래머스 | 20.12.27 | 구현 |  [Summer/Winter Coding(2018)-스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv.2 | [이동](./programmers/readme/스킬트리.md) |
-| 프로그래머스 | 20.01.23 | 최대공약수 |  [Summer/Winter Coding(2019)-멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv.2 | [이동](./programmers/readme/멀쩡한사각형.md) |
-| 프로그래머스 | 20.01.24 | 스택,큐 |  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | [이동](./programmers/readme/프린터.md) |
-| 프로그래머스 | 20.01.25 | 스택,큐 |  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | [이동](./programmers/readme/기능개발.md) |
-| 프로그래머스 | 20.01.28 | DP | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv.3 | [이동](./programmers/readme/N으로표현.md) |
-| 프로그래머스 | 20.01.29 | 구현 | [2020 KAKAO BLIND RECRUITMENT-괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2 | [이동](./programmers/readme/괄호변환.md) |
+| 프로그래머스 | 21.01.23 | 최대공약수 |  [Summer/Winter Coding(2019)-멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv.2 | [이동](./programmers/readme/멀쩡한사각형.md) |
+| 프로그래머스 | 21.01.24 | 스택,큐 |  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | [이동](./programmers/readme/프린터.md) |
+| 프로그래머스 | 21.01.25 | 스택,큐 |  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | [이동](./programmers/readme/기능개발.md) |
+| 프로그래머스 | 21.01.28 | DP | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv.3 | [이동](./programmers/readme/N으로표현.md) |
+| 프로그래머스 | 21.01.29 | 구현 | [2020 KAKAO BLIND RECRUITMENT-괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2 | [이동](./programmers/readme/괄호변환.md) |
 | 프로그래머스 | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [이동](./programmers/readme/체육복.md) |
 | 프로그래머스 | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [이동](./programmers/readme/큰수만들기.md) |
 | 2019 국가 교육기관 코딩 테스트 | 21.01.31 | 그리디 |  [큰 수의 법칙](./programmers/readme/큰수의법칙.md) | 쉬움 | [이동](./programmers/readme/큰수의법칙.md) |
