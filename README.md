@@ -74,6 +74,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [이동](./programmers/readme/큰수만들기.md) |
 | 2019 국가 교육기관 코딩 테스트 | 21.01.31 | 그리디 |  [큰 수의 법칙](./programmers/readme/큰수의법칙.md) | 쉬움 | [이동](./programmers/readme/큰수의법칙.md) |
 | 프로그래머스 | 21.01.31 | 스택 |  [2020 KAKAO BLIND RECRUITMENT-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [이동](./programmers/readme/문자열압축.md) |
+| 프로그래머스 | 21.02.02 | 구현 |  [2020 KAKAO BLIND RECRUITMENT-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [이동](./programmers/readme/자물쇠와열쇠.md) |
 
 
 
