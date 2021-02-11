@@ -75,6 +75,6 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [이동](./programmers/readme/큰수만들기.md) |
 | 프로그래머스 | 21.01.31 | 스택 |  [20' KAKAO 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [이동](./programmers/readme/문자열압축.md) |
 | 프로그래머스 | 21.02.02 | 구현 |  [20' KAKAO 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [이동](./programmers/readme/자물쇠와열쇠.md) |
-| 백준 | 21.02.11 | 그리디 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | b2 | [이동](./baekjoon/readme/시험감독.md) |
-| 백준 | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | s1 | [이동](./baekjoon/readme/A-B.md) |
+| 백준 | 21.02.11 | 그리디 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [이동](./baekjoon/readme/시험감독.md) |
+| 백준 | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [이동](./baekjoon/readme/A-B.md) |
 
