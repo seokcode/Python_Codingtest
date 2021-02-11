@@ -1,11 +1,12 @@
 # H-Index
-> lv2
+> **lv2**
 >
-> 2020-12-08
+> **2020-12-08**
 >
-> https://programmers.co.kr/learn/courses/30/lessons/42747
+> [프로그래머스: 42747](https://programmers.co.kr/learn/courses/30/lessons/42747)
 
-### Sol
+
+## Sol
 > 어떤 과학자가 발표한 논문 n편 중, h번 이상 인용된 논문이 h편 이상이고 나머지 논문이 h번 이하 인용되었다면 h의 최댓값이 이 과학자의 H-Index입니다.
 >
 >제한사항
@@ -21,10 +22,12 @@ H-Index는 citations의 최댓값을 넘길 수 없기 때문에 범위를 지�
 
 (h는 0부터 citations 배열의 최대 인용횟수까지 for문을 돌게 되기 때문에 answer는 항상 최댓값을 유지하게 된다.)
 
+
+## 답안
 ```python
 def solution(citations):
     answer = 0
-    for h in range(0,max(citations)+1):
+    for h in range(0,max(citations)+안1):
         num = 0
         for i in citations:
             if i >= h :
@@ -35,7 +38,7 @@ def solution(citations):
     return answer
 ```
 
-### Other's Code
+## Other's Sol
 ```python
 def solution(citations):
     citations = sorted(citations)

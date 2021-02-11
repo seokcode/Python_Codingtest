@@ -1,9 +1,9 @@
 # N으로 표현
-> lv3
+> **lv3**
 >
-> 2021-01-28
+> **2021-01-28**
 >
-> https://programmers.co.kr/learn/courses/30/lessons/42895
+> [프로그래머스: 42895](https://programmers.co.kr/learn/courses/30/lessons/42895)
 
 ### Sol
 
