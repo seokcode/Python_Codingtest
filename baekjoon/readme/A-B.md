@@ -6,7 +6,7 @@
 > [B16953](https://www.acmicpc.net/problem/16953)
 
 
-## Sol
+# Sol
 
 BFS 혹은 그리디로도 풀 수 있는 문제였다.   
 (BFS로 풀고나서 그리디 알고리즘도 적용해보았는데 그리디가 더 빨랐다.)  
@@ -32,7 +32,7 @@ a에 2를 곱한 수가 or a 우측에 1을 추가한 숫자가 목표 숫자인
 가장 먼저 a==b의 조건식을 통과하는 단계의 cnt가 곧 답이된다.
  
  
-## BFS 풀이
+# BFS 풀이
 ```python
 from collections import deque
 
@@ -58,7 +58,7 @@ print(ans)
 
 
 > 그리디의 경우는 A->B가 아니라 B->A라고 생각하고 진행한다.  
-## 그리디 풀이
+# 그리디 풀이
 ```python
 a,b = map(int, input().split())
 cnt = 1
