@@ -77,4 +77,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 프로그래머스 | 21.02.02 | 구현 |  [20' KAKAO 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [이동](./programmers/readme/자물쇠와열쇠.md) |
 | 백준 | 21.02.11 | 그리디 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [이동](./baekjoon/readme/시험감독.md) |
 | 백준 | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [이동](./baekjoon/readme/A-B.md) |
+| 프로그래머스 | 21.02.12 | 그리디 |  [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Lv.2 | [이동](./programmers/readme/구명보트.md) |
 
