@@ -78,4 +78,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ 문제번호
 | 백준 | 21.02.11 | 그리디 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [이동](./baekjoon/readme/시험감독.md) |
 | 백준 | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [이동](./baekjoon/readme/A-B.md) |
 | 프로그래머스 | 21.02.12 | 그리디 |  [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Lv.2 | [이동](./programmers/readme/구명보트.md) |
+| 프로그래머스 | 21.02.13 | 그리디 |  [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 | [이동](./programmers/readme/단속카메라.md) |
 
