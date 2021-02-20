@@ -81,4 +81,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 프로그래머스 | 21.02.13 | 그리디 |  [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 | [이동](./programmers/readme/단속카메라.md) |
 | 프로그래머스 | 21.02.17 | 스택,큐 |  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | Lv.2 | [이동](./programmers/readme/주식가격.md) |
 | 프로그래머스 | 21.02.18 | 브루트포스 |  [21' kakao 공채-메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Lv.2 | [이동](./programmers/readme/메뉴리뉴얼.md) |
+| 프로그래머스 | 21.02.20 | 브루트포스 |  [18' kakao 공채-뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv.2 | [이동](./programmers/readme/뉴스클러스터링.md) |
 
