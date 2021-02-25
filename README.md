@@ -83,4 +83,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 프로그래머스 | 21.02.18 | 브루트포스 |  [21' kakao 공채-메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Lv.2 | [이동](./programmers/readme/메뉴리뉴얼.md) |
 | 프로그래머스 | 21.02.20 | 브루트포스 |  [18' kakao 공채-뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv.2 | [이동](./programmers/readme/뉴스클러스터링.md) |
 | 프로그래머스 | 21.02.20 | 브루트포스 |  [18' kakao 공채-비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1 | [이동](./programmers/readme/비밀지도.md) |
+| 프로그래머스 | 21.02.25 | 스택, 큐 |  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Lv.2 | [이동](./programmers/readme/다리를지나는트럭.md) |
 
