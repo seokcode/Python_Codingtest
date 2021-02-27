@@ -86,4 +86,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 프로그래머스 | 21.02.25 | 스택, 큐 |  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Lv.2 | [이동](./programmers/readme/다리를지나는트럭.md) |
 | 프로그래머스 | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [이동](./programmers/readme/삼각달팽이.md) |
 | 백준 | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [이동](./baekjoon/readme/ABCDE.md) |
+| 백준 | 21.02.27 | BFS |  [이모티콘](https://www.acmicpc.net/problem/14226) | G5 | [이동](./baekjoon/readme/이모티콘.md) |
 
