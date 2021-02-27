@@ -84,4 +84,6 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 프로그래머스 | 21.02.20 | 브루트포스 |  [18' kakao 공채-뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv.2 | [이동](./programmers/readme/뉴스클러스터링.md) |
 | 프로그래머스 | 21.02.20 | 브루트포스 |  [18' kakao 공채-비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1 | [이동](./programmers/readme/비밀지도.md) |
 | 프로그래머스 | 21.02.25 | 스택, 큐 |  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Lv.2 | [이동](./programmers/readme/다리를지나는트럭.md) |
+| 프로그래머스 | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [이동](./programmers/readme/삼각달팽이.md) |
+| 백준 | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [이동](./baekjoon/readme/ABCDE.md) |
 
