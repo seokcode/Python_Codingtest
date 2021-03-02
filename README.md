@@ -87,5 +87,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 프로그래머스 | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [이동](./programmers/readme/삼각달팽이.md) |
 | 백준 | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [이동](./baekjoon/readme/ABCDE.md) |
 | 백준 | 21.02.27 | BFS |  [이모티콘](https://www.acmicpc.net/problem/14226) | G5 | [이동](./baekjoon/readme/이모티콘.md) |
-| 백준 | 21.03.02 | 구현 |  [신규 아이디 추천](https://www.acmicpc.net/problem/72410) | G5 | [이동](./baekjoon/readme/신규아이디추천.md) |
+| 프로그래머스 | 21.03.02 | 구현 |  [신규 아이디 추천](https://www.acmicpc.net/problem/72410) | Lv.1 | [이동](./baekjoon/readme/신규아이디추천.md) |
 
