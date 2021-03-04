@@ -88,5 +88,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | 백준 | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [이동](./baekjoon/readme/ABCDE.md) |
 | 백준 | 21.02.27 | BFS |  [이모티콘](https://www.acmicpc.net/problem/14226) | G5 | [이동](./baekjoon/readme/이모티콘.md) |
 | 프로그래머스 | 21.03.02 | 구현 |  [신규 아이디 추천](https://www.acmicpc.net/problem/72410) | Lv.1 | [이동](./programmers/readme/신규아이디추천.md) |
-| 프로그래머스 | 21.03.04 | 구현 |  [프렌즈4블럭](https://www.acmicpc.net/problem/17679) | Lv.2 | [이동](./programmers/readme/프렌즈4블럭.md) |
+| 프로그래머스 | 21.03.04 | 구현 |  [프렌즈4블록](https://www.acmicpc.net/problem/17679) | Lv.2 | [이동](./programmers/readme/프렌즈4블록.md) |
 
