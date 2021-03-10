@@ -51,8 +51,8 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 </details>
 
 
-| 플랫폼 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |Swift|
-| :-----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| 플랫폼 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 | Swift |
+| :-----------: | :----------: | :----------: | :----------: | :----------: | :----------: |  :----------: |
 | 프로그래머스 | 20.12.08 | 정렬 |  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [이동](./programmers/readme/K번째수.md) ||
 | 프로그래머스 | 20.12.08 | 정렬 |  [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Lv.2 | [이동](./programmers/readme/가장큰수.md) ||
 | 프로그래머스 | 20.12.08 | 정렬 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [이동](./programmers/readme/H-Index.md) ||
