@@ -89,10 +89,10 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [sol](./programmers/readme/삼각달팽이.md) ||
 | B | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [sol](./baekjoon/readme/ABCDE.md) ||
 | B | 21.02.27 | BFS |  [이모티콘](https://www.acmicpc.net/problem/14226) | G5 | [sol](./baekjoon/readme/이모티콘.md) ||
-| P | 21.03.02 | 구현 |  [신규 아이디 추천](https://www.acmicpc.net/problem/72410) | Lv.1 | [sol](./programmers/readme/신규아이디추천.md) ||
-| P | 21.03.04 | 구현 |  [18' kakao 공채-프렌즈4블록](https://www.acmicpc.net/problem/17679) | Lv.2 | [sol](./programmers/readme/프렌즈4블록.md) ||
-| P | 21.03.06 | 구현(LRU) |  [18' kakao 공채-캐시](https://www.acmicpc.net/problem/17680) | Lv.2 | [sol](./programmers/readme/캐시.md) ||
-| P | 21.03.07 | 정렬 |  [18' kakao 공채-파일명 정렬](https://www.acmicpc.net/problem/17686) | Lv.2 | [sol](./programmers/readme/파일명정렬.md) ||
-| P | 21.03.09 | 해시,이분탐색 |  [21' kakao 공채-순위검색](https://www.acmicpc.net/problem/72412) | Lv.2 | [sol](./programmers/readme/순위검색.md) ||
-| P | 21.03.10 | 해시 |  [위장](https://www.acmicpc.net/problem/42578) | Lv.2 | [sol](./programmers/readme/위장.md) |[sol](./programmers/readme/swift/위장.md)|
+| P | 21.03.02 | 구현 |  [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv.1 | [sol](./programmers/readme/신규아이디추천.md) ||
+| P | 21.03.04 | 구현 |  [18' kakao 공채-프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv.2 | [sol](./programmers/readme/프렌즈4블록.md) ||
+| P | 21.03.06 | 구현(LRU) |  [18' kakao 공채-캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv.2 | [sol](./programmers/readme/캐시.md) ||
+| P | 21.03.07 | 정렬 |  [18' kakao 공채-파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv.2 | [sol](./programmers/readme/파일명정렬.md) ||
+| P | 21.03.09 | 해시,이분탐색 |  [21' kakao 공채-순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv.2 | [sol](./programmers/readme/순위검색.md) ||
+| P | 21.03.10 | 해시 |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2 | [sol](./programmers/readme/위장.md) |[sol](./programmers/readme/swift/위장.md)|
 
