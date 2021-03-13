@@ -94,7 +94,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.03.06 | 구현(LRU) |  [18' kakao 공채-캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv.2 | [sol](./programmers/readme/캐시.md) ||
 | P | 21.03.07 | 정렬 |  [18' kakao 공채-파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv.2 | [sol](./programmers/readme/파일명정렬.md) ||
 | P | 21.03.09 | 해시,이분탐색 |  [21' kakao 공채-순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv.2 | [sol](./programmers/readme/순위검색.md) ||
-| P | 21.03.10 | 해시 |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2 | [sol](./programmers/readme/위장.md) |[sol](./programmers/readme/swift/위장.md)|
+| P | 21.03.10 | 해시 |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2 | [sol](./programmers/readme/위장.md) | [sol](./programmers/readme/swift/위장.md) |
 | P | 21.03.13 | 해시 |  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv.2 | [sol](./programmers/readme/전화번호목록.md) | - |
-| P | 21.03.14 | 해시 |  [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3 | [sol](./programmers/readme/베스트앨범.md) | - |
+| P | 21.03.14 | 해시 |  [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3 | [sol](./programmers/readme/베스트앨범.md) | [sol](./programmers/readme/swift/베스트앨범.md) |
 
