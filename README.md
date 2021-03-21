@@ -39,7 +39,7 @@ https://www.acmicpc.net/problem/ **문제번호**
 
 
 ## 문제풀이(21.12.08~)
-
+> [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)
 
 <details>
 <summary>문제링크</summary>
@@ -100,3 +100,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | B | 21.03.17 | 그리디 |  [주식](https://www.acmicpc.net/problem/11501) | S2 | [sol](./baekjoon/readme/주식.md) | [sol](./baekjoon/readme/swift/주식.md) |
 | P | 21.03.18 | 그리디 |  [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv.2 | [sol](./programmers/readme/가장큰정사각형.md) | [sol](./programmers/readme/swift/가장큰정사각형.md) |
 | P | 21.03.20 | 스택,큐 |  [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | Lv.2 | [sol](./programmers/readme/올바른괄호.md) | [sol](./programmers/readme/swift/올바른괄호.md) |
+| P | 21.03.20 | 브루트포스 |  [20' kakao 인턴십-수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/62757) | Lv.2 | [sol](./programmers/readme/수식최대화.md) |  |
