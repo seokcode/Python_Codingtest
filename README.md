@@ -51,7 +51,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 </details>
 
 
-> P: 프로그래머스  B: 백준  E: 기타
+> `P: 프로그래머스`  ` B: 백준`  `L: 리트코드`  `E: 기타`
 
 | 플랫폼 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | Python | Swift |
 | :-----------: | :----------: | :----------: | :----------: | :----------: | :----------: |  :----------: |
@@ -102,4 +102,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.03.20 | 스택,큐 |  [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | Lv.2 | [sol](./programmers/readme/올바른괄호.md) | [sol](./programmers/readme/swift/올바른괄호.md) |
 | P | 21.03.21 | 분할정복 |  [20' kakao 인턴십-수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/62757) | Lv.2 | [sol](./programmers/readme/수식최대화.md) | [sol](./programmers/readme/swift/수식최대화.md)  |
 | P | 21.03.23 | 구현 |  [20' kakao 인턴십-키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/62756) | Lv.1 | [sol](./programmers/readme/키패드누르기.md) | [sol](./programmers/readme/swift/키패드누르기.md)  |
- 
+| L | 21.03.25 | 문자열 |  [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Lv.1 | [sol](./leetcode/readme/group-anagrams.md) | [sol](./leetcode/readme/swift/group-anagrams.md)  |
+
