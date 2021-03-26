@@ -38,7 +38,7 @@ https://www.acmicpc.net/problem/ **문제번호**
 <br>
 
 
-## 문제풀이(21.12.08~)
+## 문제풀이(20.12.08~)
 > [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)
 
 <details>
