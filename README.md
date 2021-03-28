@@ -40,6 +40,7 @@ https://www.acmicpc.net/problem/ **문제번호**
 
 ## 문제풀이(20.12.08~)
 > [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)
+> [Swift Language Guide[한국어 ver]](https://jusung.gitbook.io/the-swift-language-guide/language-guide/04-collection-types)
 
 <details>
 <summary>문제링크</summary>
@@ -104,3 +105,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.03.23 | 구현 |  [20' kakao 인턴십-키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/62756) | Lv.1 | [sol](./programmers/readme/키패드누르기.md) | [sol](./programmers/readme/swift/키패드누르기.md)  |
 | L | 21.03.25 | 문자열 |  [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [sol](./leetcode/readme/group-anagrams.md) | [sol](./leetcode/readme/swift/group-anagrams.md)  |
 | P | 21.03.26 | 해시 |  [19' kakao 겨울 인턴십-튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv.2 | [sol](./programmers/readme/튜플.md) | [sol](./programmers/readme/swift/튜플.md)  |
+| P | 21.03.28 | 분할정복 |  [월간 코드 챌린지1-쿼드 압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv.2 | [sol](./programmers/readme/쿼드압축후개수세기.md) | [sol](./programmers/readme/swift/쿼드압축후개수세기.md) |
