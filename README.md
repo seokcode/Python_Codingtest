@@ -106,4 +106,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | L | 21.03.25 | 문자열 |  [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [sol](./leetcode/readme/group-anagrams.md) | [sol](./leetcode/readme/swift/group-anagrams.md)  |
 | P | 21.03.26 | 해시 |  [19' kakao 겨울 인턴십-튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv.2 | [sol](./programmers/readme/튜플.md) | [sol](./programmers/readme/swift/튜플.md)  |
 | P | 21.03.28 | 분할정복 |  [월간 코드 챌린지1-쿼드 압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv.2 | [sol](./programmers/readme/쿼드압축후개수세기.md) | [sol](./programmers/readme/swift/쿼드압축후개수세기.md) |
-| P | 21.03.29 | DP |  [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv.2 | [sol](./programmers/readme/땅따먹기.md) | [sol](./programmers/readme/swift/땅따먹기.md)  | 
+| P | 21.03.29 | DP |  [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv.2 | [sol](./programmers/readme/땅따먹기.md) | [sol](./programmers/readme/swift/땅따먹기.md)  |
+| P | 21.04.01 | 그리디 |  [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | Lv.2 | [sol](./programmers/readme/섬연결하기.md) | [sol](./programmers/readme/swift/섬연결하기.md)  |
