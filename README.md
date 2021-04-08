@@ -111,3 +111,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.04.03 | 구현 |  [피보나치수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv.2 | [sol](./programmers/readme/피보나치수.md) | [sol](./programmers/readme/swift/피보나치수.md)  |
 | P | 21.04.04 | 구현 |  [이진변환반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2 | [sol](./programmers/readme/이진변환반복하기.md) | [sol](./programmers/readme/swift/이진변환반복하기.md)  | 
 | L | 21.04.07 | 문자열 |  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [sol](./leetcode/readme/valid-palindrome.md) | [sol](./leetcode/readme/swift/valid-palindrome.md)  |
+| L | 21.04.08 | 문자열 |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [sol](./leetcode/readme/longest-palindromic-substring.md) | [sol](./leetcode/readme/swift/longest-palindromic-substring.md)  |
