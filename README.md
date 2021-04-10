@@ -113,3 +113,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | L | 21.04.07 | 문자열 |  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [sol](./leetcode/readme/valid-palindrome.md) | [sol](./leetcode/readme/swift/valid-palindrome.md)  |
 | L | 21.04.08 | 문자열 |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [sol](./leetcode/readme/longest-palindromic-substring.md) |  |
 | P | 21.04.10 | BFS |  [21' kakao 공채-합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | Lv.3 | [sol](./programmers/readme/합승택시요금.md) |  |
+| P | 21.04.10 | 구현 |  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv.2 | [sol](./programmers/readme/다음큰숫자.md) | [sol](./programmers/readme/swift/다음큰숫자.md)  |
+
