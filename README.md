@@ -55,7 +55,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 > `P: 프로그래머스`  ` B: 백준`  `L: 리트코드`  `E: 기타`
 
 | 플랫폼 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | Python | Swift |
-| :-----------: | :----------: | :----------: | :----------: | :----------: | :----------: |  :----------: |
+| :-----------: | :----------: | :---------- | :---------- | :----------: | :----------: |  :----------: |
 | P | 20.12.08 | 정렬 |  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [sol](./programmers/readme/K번째수.md) ||
 | P | 20.12.08 | 정렬 |  [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Lv.2 | [sol](./programmers/readme/가장큰수.md) ||
 | P | 20.12.08 | 정렬 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [sol](./programmers/readme/H-Index.md) ||
@@ -96,7 +96,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.03.07 | 정렬 |  [18' kakao 공채-파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv.2 | [sol](./programmers/readme/파일명정렬.md) ||
 | P | 21.03.09 | 해시,이분탐색 |  [21' kakao 공채-순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv.2 | [sol](./programmers/readme/순위검색.md) ||
 | P | 21.03.10 | 해시 |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2 | [sol](./programmers/readme/위장.md) | [sol](./programmers/readme/swift/위장.md) |
-| P | 21.03.13 | 해시 |  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv.2 | [sol](./programmers/readme/전화번호목록.md) | - |
+| P | 21.03.13 | 해시 |  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv.2 | [sol](./programmers/readme/전화번호목록.md) | 지원안함 |
 | P | 21.03.14 | 해시 |  [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3 | [sol](./programmers/readme/베스트앨범.md) | [sol](./programmers/readme/swift/베스트앨범.md) |
 | B | 21.03.17 | 그리디 |  [주식](https://www.acmicpc.net/problem/11501) | S2 | [sol](./baekjoon/readme/주식.md) | [sol](./baekjoon/readme/swift/주식.md) |
 | P | 21.03.18 | 그리디 |  [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv.2 | [sol](./programmers/readme/가장큰정사각형.md) | [sol](./programmers/readme/swift/가장큰정사각형.md) |
@@ -114,4 +114,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | L | 21.04.08 | 문자열 |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | [sol](./leetcode/readme/longest-palindromic-substring.md) |  |
 | P | 21.04.10 | BFS |  [21' kakao 공채-합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | Lv.3 | [sol](./programmers/readme/합승택시요금.md) |  |
 | P | 21.04.10 | 구현 |  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv.2 | [sol](./programmers/readme/다음큰숫자.md) | [sol](./programmers/readme/swift/다음큰숫자.md)  |
+| P | 21.04.12 | 힙 |  [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | Lv.2 | [sol](./programmers/readme/더맵게.md) | 지원안함 |
 
