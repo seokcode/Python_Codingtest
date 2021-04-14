@@ -5,39 +5,6 @@
 
 <br>
 
-<details>
-<summary>  백준(20.08.03~10.01) </summary>
-<div markdown="1">       
-
-
-<br>
-<details>
-<summary>문제링크</summary>
-<div markdown="1">       
-
-https://www.acmicpc.net/problem/ **문제번호**
-
-</div>
-</details>
-
-
-| 알고리즘 구분 | 기초 | 문제 | 연습 | 
-| :----------: | :----------: | :----------: | :----------: | 
-| 브루트포스 | [🌱](./baekjoon/[Bruteforce]/기초) | [📚](./baekjoon/[Bruteforce]/문제1) | [📝](./baekjoon/[Bruteforce]/연습) |
-| DP | [🌱](./baekjoon/[DP]/기초) | [📚](./baekjoon/[DP]/문제1) | [📝](./baekjoon/[DP]/연습) |
-| greedy | - | - | [📝](./baekjoon/[greedy]) |
-| DFS/BFS | [🌱](./baekjoon/[그래프와BFS]/기초) | [📚](./baekjoon/[그래프와BFS]/문제1) | [📝](./baekjoon/[그래프와BFS]/연습) |
-| 시뮬레이션 | - | - | [📝](./baekjoon/[시뮬레이션]) 
-| math | - | - | [📝](./baekjoon/[math]) |
-
-
-</div>
-</details>
-
-
-<br>
-
-
 ## 문제풀이(20.12.08~)
 > [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)
 > [Swift Language Guide[한국어 ver]](https://jusung.gitbook.io/the-swift-language-guide/language-guide/04-collection-types)
@@ -78,7 +45,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [sol](./programmers/readme/큰수만들기.md) ||
 | P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./programmers/readme/문자열압축.md) ||
 | P | 21.02.02 | 구현 |  [20' kakao 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [sol](./programmers/readme/자물쇠와열쇠.md) ||
-| B | 21.02.11 | 그리디 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./baekjoon/readme/시험감독.md) ||
+| B | 21.02.11 | 구현 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./baekjoon/readme/시험감독.md) ||
 | B | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [sol](./baekjoon/readme/A-B.md) ||
 | P | 21.02.12 | 그리디 |  [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Lv.2 | [sol](./programmers/readme/구명보트.md) ||
 | P | 21.02.13 | 그리디 |  [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 | [sol](./programmers/readme/단속카메라.md) ||
