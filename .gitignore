@@ -6,6 +6,8 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+
+.idea/
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -108,6 +110,7 @@ fabric.properties
 ### venv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+venv/ 
 .Python
 [Bb]in
 [Ii]nclude
@@ -126,5 +129,5 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
+*.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,vscode,venv
