@@ -6,7 +6,7 @@
 <br>
 
 ## 문제풀이(20.12.08~)
-> [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)
+> [Pythonic하게 코드 짜기](https://github.com/VSFe/Algorithm_Study/blob/main/Concept/00_Special/Pythonic_Code_For_Coding_Test.md)  
 > [Swift Language Guide[한국어 ver]](https://jusung.gitbook.io/the-swift-language-guide/language-guide/04-collection-types)
 
 <details>

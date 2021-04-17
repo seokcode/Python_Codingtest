@@ -43,3 +43,9 @@ extension Deque: CustomStringConvertible {
         return storage.description
     }
 }
+
+
+ws.study{
+    "Higher-order function",
+    "closure"
+}
