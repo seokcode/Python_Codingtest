@@ -23,7 +23,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 
 | 플랫폼 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | Python | Swift |
 | :-----------: | :---------- | :---------- | :---------- | :----------: | :----------: |  :----------: |
-| P | 20.12.08 | 정렬 |  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [sol](./programmers/readme/K번째수.md) ||
+| P | 20.12.08 | 정렬 |  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [sol](./programmers/readme/K번째수.md) | [sol](./programmers/readme/swift/K번째수.md) |
 | P | 20.12.08 | 정렬 |  [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Lv.2 | [sol](./programmers/readme/가장큰수.md) ||
 | P | 20.12.08 | 정렬 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [sol](./programmers/readme/H-Index.md) ||
 | P | 20.12.10 | 브루트포스 |  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | Lv.1 | [sol](./programmers/readme/모의고사.md) | [sol](./programmers/readme/swift/모의고사.md) |
