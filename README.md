@@ -36,8 +36,8 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 20.12.24 | DFS,BFS |  [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Lv.3 | [sol](./programmers/readme/여행경로.md) ||
 | P | 20.12.27 | 구현 |  [Summer/Winter Coding 18'-스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv.2 | [sol](./programmers/readme/스킬트리.md) ||
 | P | 21.01.23 | 최대공약수 |  [Summer/Winter Coding 19'-멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv.2 | [sol](./programmers/readme/멀쩡한사각형.md) ||
-| P | 21.01.24 | 스택,큐 |  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | [sol](./programmers/readme/프린터.md) ||
-| P | 21.01.25 | 스택,큐 |  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | [sol](./programmers/readme/기능개발.md) ||
+| P | 21.01.24 | 스택,큐 |  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | [sol](./programmers/readme/프린터.md) | [sol](./programmers/readme/swift/프린터.md) |
+| P | 21.01.25 | 스택,큐 |  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | [sol](./programmers/readme/기능개발.md) | [sol](./programmers/readme/swift/기능개발.md) |
 | P | 21.01.28 | DP | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv.3 | [sol](./programmers/readme/N으로표현.md) ||
 | P | 21.01.29 | 구현 | [20' kakao 공채-괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2 | [sol](./programmers/readme/괄호변환.md) ||
 | P | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [sol](./programmers/readme/체육복.md) ||
