@@ -30,8 +30,8 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 20.12.13 | 브루트포스 |  [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [sol](./programmers/readme/소수찾기.md) ||
 | P | 20.12.15 | 스택 |  [19' kakao 겨울 인턴십-크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 쉬움 | [sol](./programmers/readme/크레인인형뽑기게임.md) ||
 | P | 20.12.17 | 브루트포스 |  [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | Lv.2 | [sol](./programmers/readme/카펫.md) ||
-| P | 20.12.17 | DFS,BFS |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | Lv.2 | [sol](./programmers/readme/타겟넘버.md) ||
-| P | 20.12.21 | DFS,BFS |  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | Lv.3 | [sol](./programmers/readme/네트워크.md) ||
+| P | 20.12.17 | DFS,BFS |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | Lv.2 | [sol](./programmers/readme/타겟넘버.md) | [sol](./programmers/readme/swift/타겟넘버.md) |
+| P | 20.12.21 | DFS,BFS |  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | Lv.3 | [sol](./programmers/readme/네트워크.md) | [sol](./programmers/readme/swift/네트워크.md) |
 | P | 20.12.23 | DFS,BFS |  [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | Lv.3 | [sol](./programmers/readme/단어변환.md) ||
 | P | 20.12.24 | DFS,BFS |  [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Lv.3 | [sol](./programmers/readme/여행경로.md) ||
 | P | 20.12.27 | 구현 |  [Summer/Winter Coding 18'-스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv.2 | [sol](./programmers/readme/스킬트리.md) ||
