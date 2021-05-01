@@ -87,4 +87,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.04.16 | 구현 |  [월간 코드 챌린지2-음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv.1 | [sol](./programmers/readme/음양더하기.md) | [sol](./programmers/readme/swift/음양더하기.md)  |
 | P | 21.04.16 | 스택,큐 |  [월간 코드 챌린지2-괄호회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv.2 | [sol](./programmers/readme/괄호회전하기.md) | [sol](./programmers/readme/swift/괄호회전하기.md) |
 | P | 21.04.28 | DP |  [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | Lv.3 | [sol](./programmers/readme/정수삼각형.md) | - |
-| P | 21.04.30 | 이분탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./programmers/readme/정수삼각형.md) | [sol](./programmers/readme/swift/정수삼각형.md) |
+| P | 21.04.30 | 이분탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./programmers/readme/입국심사.md) | [sol](./programmers/readme/swift/입국심사.md) |
