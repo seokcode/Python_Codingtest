@@ -89,3 +89,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.04.28 | DP |  [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | Lv.3 | [sol](./programmers/readme/정수삼각형.md) | - |
 | P | 21.04.30 | 이분탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./programmers/readme/입국심사.md) | [sol](./programmers/readme/swift/입국심사.md) |
 | P | 21.05.02 | 조합(DFS) |  [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv.2 | [sol](./programmers/readme/후보키.md) | |
+| P | 21.05.05 | 구현 |  [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv.1 | [sol](./programmers/readme/실패율.md) | [sol](./programmers/readme/swift/실패율.md) |
