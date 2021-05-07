@@ -54,7 +54,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.02.20 | 브루트포스 |  [18' kakao 공채-뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv.2 | [sol](./programmers/readme/뉴스클러스터링.md) ||
 | P | 21.02.20 | 브루트포스 |  [18' kakao 공채-비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1 | [sol](./programmers/readme/비밀지도.md) ||
 | P | 21.02.25 | 스택, 큐 |  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Lv.2 | [sol](./programmers/readme/다리를지나는트럭.md) ||
-| P | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [sol](./programmers/readme/삼각달팽이.md) ||
+| P | 21.02.26 | 구현 |  [월간 코드 챌린지1-삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | [sol](./programmers/readme/삼각달팽이.md) | [sol](./programmers/readme/swift/삼각달팽이.md) |
 | B | 21.02.27 | DFS |  [ABCDE](https://www.acmicpc.net/problem/13023) | G5 | [sol](./baekjoon/readme/ABCDE.md) ||
 | B | 21.02.27 | BFS |  [이모티콘](https://www.acmicpc.net/problem/14226) | G5 | [sol](./baekjoon/readme/이모티콘.md) ||
 | P | 21.03.02 | 구현 |  [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv.1 | [sol](./programmers/readme/신규아이디추천.md) ||
@@ -90,4 +90,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.04.30 | 이분탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./programmers/readme/입국심사.md) | [sol](./programmers/readme/swift/입국심사.md) |
 | P | 21.05.02 | 조합(DFS) |  [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv.2 | [sol](./programmers/readme/후보키.md) | |
 | P | 21.05.05 | 구현 |  [19' kakao 공채-실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv.1 | [sol](./programmers/readme/실패율.md) | [sol](./programmers/readme/swift/실패율.md) |
-| P | 21.05.05 | BFS |  [Summer/Winter Coding 18'-배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv.2 | [sol](./programmers/readme/배달.md) | |
+| P | 21.05.06 | BFS |  [Summer/Winter Coding 18'-배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv.2 | [sol](./programmers/readme/배달.md) | |
