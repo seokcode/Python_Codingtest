@@ -20,7 +20,7 @@ func getCombination<T>(elements:[T], select: Int, repetition: Bool) -> [[T]] {
     var result: [[T]] = []
     var partialResult: [T] = []
 
-    getCombination(elements: elements[…], select: select, repetition: repetition, partialResult: &partialResult, totalResult: &result)
+    getCombination(elements: elements[...], select: select, repetition: repetition, partialResult: &partialResult, totalResult: &result)
 
     return result
 }
