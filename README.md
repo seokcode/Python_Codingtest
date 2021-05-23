@@ -99,3 +99,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.05.16 | 문자열 |  [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv.2 | [sol](./programmers/readme/최댓값과최솟값.md) | [sol](./programmers/readme/swift/최댓값과최솟값.md) | 
 | B | 21.05.23 | DFS, BFS |  [DFS와BFS](https://www.acmicpc.net/problem/1260) | S2 | [sol](./baekjoon/readme/DFS와BFS.md) | [sol](./baekjoon/readme/swift/DFS와BFS.md) | 
 | B | 21.05.23 | DP |  [쉬운계단수](https://www.acmicpc.net/problem/10844) | S1 | [sol](./baekjoon/readme/쉬운계단수.md) | [sol](./baekjoon/readme/swift/쉬운계단수.md) | 
+| P | 21.05.23 | 스택,큐 |  [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv.2 | [sol](./programmers/readme/짝지어제거하기.md) | [sol](./programmers/readme/swift/짝지어제거하기.md) | 
+| P | 21.05.23 | 구현 |  [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv.2 | [sol](./programmers/readme/예상대진표.md) | [sol](./programmers/readme/swift/예상대진표.md) | 
