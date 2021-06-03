@@ -40,7 +40,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.01.25 | 스택,큐 |  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | [sol](./programmers/readme/기능개발.md) | [sol](./programmers/readme/swift/기능개발.md) |
 | P | 21.01.28 | DP | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv.3 | [sol](./programmers/readme/N으로표현.md) ||
 | P | 21.01.29 | 구현 | [20' kakao 공채-괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Lv.2 | [sol](./programmers/readme/괄호변환.md) ||
-| P | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [sol](./programmers/readme/체육복.md) ||
+| P | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [sol](./programmers/readme/체육복.md) | [sol](./programmers/readme/swift/체육복.md) |
 | E | 21.01.31 | 그리디 |  [큰 수의 법칙](./programmers/readme/큰수의법칙.md) | 하 | [이동](./programmers/readme/큰수의법칙.md) ||
 | P | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [sol](./programmers/readme/큰수만들기.md) ||
 | P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./programmers/readme/문자열압축.md) ||

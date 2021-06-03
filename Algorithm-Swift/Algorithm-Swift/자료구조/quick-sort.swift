@@ -17,3 +17,6 @@ func quickSort<T: Comparable>(_ a: [T]) -> [T] {
 
     return quickSort(less) + equal + quickSort(greater)
 }
+
+let list = [ 10, 0, 3, 9, 2, 14, 8, 27, 1, 5, 8, -1, 26 ]
+print(quickSort(list)) // [-1, 0, 1, 2, 3, 5, 8, 8, 9, 10, 14, 26, 27]
