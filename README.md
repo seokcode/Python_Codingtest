@@ -101,3 +101,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | B | 21.05.23 | DP |  [쉬운계단수](https://www.acmicpc.net/problem/10844) | S1 | [sol](./baekjoon/readme/쉬운계단수.md) | [sol](./baekjoon/readme/swift/쉬운계단수.md) | 
 | P | 21.05.23 | 스택,큐 |  [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv.2 | [sol](./programmers/readme/짝지어제거하기.md) | [sol](./programmers/readme/swift/짝지어제거하기.md) | 
 | P | 21.05.23 | 구현 |  [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv.2 | [sol](./programmers/readme/예상대진표.md) | [sol](./programmers/readme/swift/예상대진표.md) | 
+| B | 21.06.06 | 이분탐색 |  [랜선자르기](https://www.acmicpc.net/problem/1654) | S3 | [sol](./baekjoon/readme/랜선자르기.md) || 
+| B | 21.06.06 | 이분탐색 |  [나무자르기](https://www.acmicpc.net/problem/2805) | S3 | [sol](./baekjoon/readme/나무자르기.md) || 
