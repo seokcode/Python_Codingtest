@@ -103,3 +103,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.05.23 | 구현 |  [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv.2 | [sol](./programmers/readme/예상대진표.md) | [sol](./programmers/readme/swift/예상대진표.md) | 
 | B | 21.06.06 | 이분탐색 |  [랜선자르기](https://www.acmicpc.net/problem/1654) | S3 | [sol](./baekjoon/readme/랜선자르기.md) | [sol](./baekjoon/readme/swift/랜선자르기.md) | 
 | B | 21.06.06 | 이분탐색 |  [나무자르기](https://www.acmicpc.net/problem/2805) | S3 | [sol](./baekjoon/readme/나무자르기.md) | [sol](./baekjoon/readme/swift/랜선자르기.md) | 
+| P | 21.06.19 | 그리디 |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | Lv.2 | [sol](./programmers/readme/조이스틱.md) | [sol](./programmers/readme/swift/조이스틱.md) | 
