@@ -105,5 +105,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | B | 21.06.06 | 이분탐색 |  [나무자르기](https://www.acmicpc.net/problem/2805) | S3 | [sol](./baekjoon/readme/나무자르기.md) | [sol](./baekjoon/readme/swift/랜선자르기.md) | 
 | P | 21.06.19 | 그리디 |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | Lv.2 | [sol](./programmers/readme/조이스틱.md) |  | 
 | P | 21.06.20 | 그리디 |  [최솟값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv.2 | [sol](./programmers/readme/최솟값만들기.md) | [sol](./programmers/readme/swift/최솟값만들기.md) | 
-| P | 21.06.20 | 문자열 |  [JadenCase 문자열 만들기
-](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv.2 | [sol](./programmers/readme/JadenCase문자열만들기.md) |  | 
+| P | 21.06.20 | 문자열 |  [JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv.2 | [sol](./programmers/readme/JadenCase문자열만들기.md) |  |
