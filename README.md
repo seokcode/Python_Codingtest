@@ -28,7 +28,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 20.12.08 | 이분탐색,브루트포스 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [sol](./programmers/readme/H-Index.md) | [sol](./programmers/readme/swift/H-Index.md) |
 | P | 20.12.10 | 브루트포스 |  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | Lv.1 | [sol](./programmers/readme/모의고사.md) | [sol](./programmers/readme/swift/모의고사.md) |
 | P | 20.12.13 | 브루트포스 |  [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [sol](./programmers/readme/소수찾기.md) | [sol](./programmers/readme/swift/소수찾기.md) |
-| P | 20.12.15 | 스택 |  [19' kakao 겨울 인턴십-크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 쉬움 | [sol](./programmers/readme/크레인인형뽑기게임.md) ||
+| P | 20.12.15 | 스택 |  [19' kakao 겨울 인턴십-크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 쉬움 | [sol](./programmers/readme/크레인인형뽑기게임.md) | [sol](./programmers/readme/swift/크레인인형뽑기게임.md) |
 | P | 20.12.17 | 브루트포스 |  [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | Lv.2 | [sol](./programmers/readme/카펫.md) ||
 | P | 20.12.17 | DFS,BFS |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | Lv.2 | [sol](./programmers/readme/타겟넘버.md) | [sol](./programmers/readme/swift/타겟넘버.md) |
 | P | 20.12.21 | DFS,BFS |  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | Lv.3 | [sol](./programmers/readme/네트워크.md) | [sol](./programmers/readme/swift/네트워크.md) |
