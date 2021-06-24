@@ -24,3 +24,15 @@ func getCombination<T>(elements:[T], select: Int, repetition: Bool) -> [[T]] {
 
     return result
 }
+
+func combinations(_ array: [String]) -> Set<String> {
+    if array.count == 0 { return [] }
+
+    let answerArray = (0..<array.count).flatMap { i -> [String] in
+        var removedArray = array
+        let elem = removedArray.remove(at: i)
+        return [elem] + combinations(removedArray).map { elem + $0 }
+    }
+
+    return Set(answerArray)
+}
