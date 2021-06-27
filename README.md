@@ -45,7 +45,7 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [sol](./programmers/readme/큰수만들기.md) ||
 | P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./programmers/readme/문자열압축.md) ||
 | P | 21.02.02 | 구현 |  [20' kakao 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [sol](./programmers/readme/자물쇠와열쇠.md) ||
-| B | 21.02.11 | 구현 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./baekjoon/readme/시험감독.md) ||
+| B | 21.02.11 | 구현 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./baekjoon/readme/시험감독.md) | [sol](./baekjoon/readme/swift/시험감독.md) |
 | B | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [sol](./baekjoon/readme/A-B.md) ||
 | P | 21.02.12 | 그리디 |  [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Lv.2 | [sol](./programmers/readme/구명보트.md) ||
 | P | 21.02.13 | 그리디 |  [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 | [sol](./programmers/readme/단속카메라.md) ||
