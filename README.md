@@ -106,3 +106,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.06.19 | 그리디 |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | Lv.2 | [sol](./programmers/readme/조이스틱.md) |  | 
 | P | 21.06.20 | 그리디 |  [최솟값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv.2 | [sol](./programmers/readme/최솟값만들기.md) | [sol](./programmers/readme/swift/최솟값만들기.md) | 
 | P | 21.06.20 | 문자열 |  [JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv.2 | [sol](./programmers/readme/JadenCase문자열만들기.md) |  |
+| P | 21.07.23 | 문자열 |  [21' kakao 하계 인턴십-숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv.1 | [sol](./programmers/readme/숫자문자열과영단어.md) | [sol](./programmers/readme/swift/숫자문자열과영단어.md) |
