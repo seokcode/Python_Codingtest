@@ -109,4 +109,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | P | 21.07.23 | 문자열 |  [21' kakao 하계 인턴십-숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv.1 | [sol](./programmers/readme/숫자문자열과영단어.md) | [sol](./programmers/readme/swift/숫자문자열과영단어.md) |
 | B | 21.07.25 | 수학 | [소수상근수](https://www.acmicpc.net/problem/9421) | S1 | [sol](./baekjoon/readme/소수상근수.md) | [sol](./baekjoon/readme/swift/소수상근수.md) |
 | B | 21.07.25 | DP | [1,2,3더하기 3](https://www.acmicpc.net/problem/15988) | S2 | [sol](./baekjoon/readme/1,2,3더하기3.md) | [sol](./baekjoon/readme/swift/1,2,3더하기3.md)  |
-| B | 21.07.25 | DP | [1,2,3더하기 5](https://www.acmicpc.net/problem/15990) | S3 | [sol](./baekjoon/readme/1,2,3더하기5.md) | |
+| B | 21.07.25 | DP | [1,2,3더하기 5](https://www.acmicpc.net/problem/15990) | S3 | [sol](./baekjoon/readme/1,2,3더하기5.md) | [sol](./baekjoon/readme/swift/1,2,3더하기5.md) |
