@@ -110,3 +110,5 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | B | 21.07.25 | 수학 | [소수상근수](https://www.acmicpc.net/problem/9421) | S1 | [sol](./baekjoon/readme/소수상근수.md) | [sol](./baekjoon/readme/swift/소수상근수.md) |
 | B | 21.07.25 | DP | [1,2,3더하기 3](https://www.acmicpc.net/problem/15988) | S2 | [sol](./baekjoon/readme/1,2,3더하기3.md) | [sol](./baekjoon/readme/swift/1,2,3더하기3.md)  |
 | B | 21.07.25 | DP | [1,2,3더하기 5](https://www.acmicpc.net/problem/15990) | S3 | [sol](./baekjoon/readme/1,2,3더하기5.md) | [sol](./baekjoon/readme/swift/1,2,3더하기5.md) |
+| L | 21.07.31 | 연결리스트 |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | [sol](./leetcode/readme/add-two-numbers.md) | |
+| L | 21.07.31 | 문자열 |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [sol](./leetcode/readme/longest-substring-without-repeating-characters.md) | |
