@@ -27,7 +27,7 @@
 3. 한번 방문한 문자는 자신을 key로 한 채, 해시맵에 현재 자신의 인덱스 위치를 value로 가지고 등록된다.
 4. 만약 두번째 방문하는 문자가 생긴다면 해시맵에서 value를 현재 위치로 업데이트 시켜준다. 그리고 head를 해당 문자를 처음 방문한 위치의 다음칸으로 한칸 밀어준다(원래 내가 푼 방법에서 2번 subArr를 이어나가는 부분)
 
-이해가 안된다면 [이 곳](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/)에 동영상과 함께 설명이 되어 있다.
+이해가 안된다면 [이 곳](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/)에 동영상과 함께 설명이 되어 있으니 참고하자.
 
 
 ## 내 답안
