@@ -114,4 +114,4 @@ https://programmers.co.kr/learn/courses/30/lessons/ **문제번호**
 | L | 21.07.31 | 문자열 |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [sol](./leetcode/readme/longest-substring-without-repeating-characters.md) | |
 | L | 21.08.01 | 구현 |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [sol](./leetcode/readme/spiral-matrix.md) | |
 | L | 21.08.01 | 구현 |  [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [sol](./leetcode/readme/spiral-matrix-ii.md) | |
-| P | 21.08.07 | 구현 |  [위클리챌린지-부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | Lv.1 | [sol](./programmers/readme/부족한금액계산하기.md) | |
+| P | 21.08.07 | 구현 |  [위클리챌린지-부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | Lv.1 | [sol](./programmers/readme/부족한금액계산하기.md) | [sol](./programmers/readme/swift/부족한금액계산하기.md) |
