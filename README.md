@@ -100,8 +100,8 @@
 | B | 21.07.25 | DP | [1,2,3더하기 5](https://www.acmicpc.net/problem/15990) | S3 | [sol](./readmes/Pdocs/1,2,3더하기5.md) | [sol](./readmes/Sdocs/1,2,3더하기5.md) |
 | L | 21.07.31 | 연결리스트 |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | [sol](./readmes/Pdocs/add-two-numbers.md) | [sol](./readmes/Pdocs/add-two-numbers.md) |
 | L | 21.07.31 | 문자열 |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [sol](./readmes/Pdocs/longest-substring-without-repeating-characters.md) | [sol](./readmes/Pdocs/longest-substring-without-repeating-characters.md) |
-| L | 21.08.01 | 구현 |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [sol](./readmes/Pdocs/spiral-matrix.md) | |
-| L | 21.08.01 | 구현 |  [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [sol](./readmes/Pdocs/spiral-matrix-ii.md) | |
+| L | 21.08.01 | 구현 |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [sol](./readmes/Pdocs/spiral-matrix.md) | [sol](./readmes/Sdocs/spiral-matrix.md) |
+| L | 21.08.01 | 구현 |  [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [sol](./readmes/Pdocs/spiral-matrix-ii.md) | [sol](./readmes/Sdocs/spiral-matrix-ii.md) |
 | P | 21.08.07 | 구현 |  [위클리챌린지-부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | Lv.1 | [sol](./readmes/Pdocs/부족한금액계산하기.md) | [sol](./readmes/Sdocs/부족한금액계산하기.md) |
 | L | 21.08.08 | 구현 |  [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [sol](./readmes/Pdocs/text-justification.md) | |
 | L | 21.08.08 | 구현 |  [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Medium | [sol](./readmes/Pdocs/multiply-strings.md) | |
