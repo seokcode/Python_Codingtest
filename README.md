@@ -106,5 +106,5 @@
 | L | 21.08.08 | 구현 |  [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [sol](./readmes/Pdocs/text-justification.md) | |
 | L | 21.08.08 | 구현 |  [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Medium | [sol](./readmes/Pdocs/multiply-strings.md) | |
 | L | 21.08.08 | 구현 |  [3Sum](https://leetcode.com/problems/3sum) | Medium | [sol](./readmes/Pdocs/3sum.md) | [sol](./readmes/Pdocs/3sum.md) |
-| P | 21.08.17 | BFS |  [21' kakao 하계 인턴십-거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 | [sol](./readmes/Pdocs/거리두기확인하기.md) | |
+| P | 21.08.17 | BFS |  [21' kakao 하계 인턴십-거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 | [sol](./readmes/Pdocs/거리두기확인하기.md) | [sol](./readmes/Sdocs/거리두기확인하기.md) |
 

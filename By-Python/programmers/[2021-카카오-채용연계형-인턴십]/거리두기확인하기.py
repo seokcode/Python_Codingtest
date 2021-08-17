@@ -30,6 +30,8 @@ def bfs(place):
     
         while dq:
             x,y,cost = dq.popleft()
+
+            # 한명이라도 어겼다면 0 return
             # 사람 간의 거리가 2이하인 경우 -> 무조건 방역수칙 위반
             if 1 <= cost <= 2 and place[x][y] == "P":
                 return 0
@@ -48,5 +50,5 @@ def bfs(place):
                     if place[nx[0]][nx[1]] != "X" and not visited[nx[0]][nx[1]]:
                         dq.append(nx)
                         visited[nx[0]][nx[1]] = True
-
+    # 모두 다 지켰다면 1 return
     return 1
