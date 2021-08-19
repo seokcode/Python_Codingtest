@@ -107,4 +107,5 @@
 | L | 21.08.08 | 구현 |  [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Medium | [sol](./readmes/Pdocs/multiply-strings.md) | [sol](./readmes/Sdocs/multiply-strings.md) |
 | L | 21.08.08 | 구현 |  [3Sum](https://leetcode.com/problems/3sum) | Medium | [sol](./readmes/Pdocs/3sum.md) | [sol](./readmes/Pdocs/3sum.md) |
 | P | 21.08.17 | BFS |  [21' kakao 하계 인턴십-거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 | [sol](./readmes/Pdocs/거리두기확인하기.md) | [sol](./readmes/Sdocs/거리두기확인하기.md) |
+| P | 21.08.19 | 완전탐색(투포인터) |  [20' kakao 하계 인턴십-보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Lv.3 | [sol](./readmes/Pdocs/보석쇼핑.md) | |
 
