@@ -12,7 +12,6 @@ Linked List:
 
 
 */
-
 public class LinkedListNode<T> {
     var value: T
     var next: LinkedListNode?
@@ -70,6 +69,22 @@ public class LinkedList<T> {
         return count
     }
 
+    public func node(atIndex index: Int) -> Node {
+        if index == 0 {
+          return head!
+        } else {
+          var node = head!.next
+          
+          for _ in 1..<index {
+            node = node?.next
+            if node == nil { //(*1)
+              break
+            }
+          }
+          return node!
+        }
+    }
+
     public func insert(_ node: Node, atIndex index: Int) {
         let newNode = node
         if index == 0 {
@@ -113,8 +128,144 @@ public class LinkedList<T> {
     }
 
     public func removeAt(_ index: Int) -> T {
-        let node = nodeAt(index)
-        assert(node != nil)
-        return remove(node: node!)
+        let node = node(atIndex: index)
+        // assert(node != nil)
+        return remove(node: node)
+    }
+}
+
+
+import Foundation
+
+public class LinkedListNode<T> {
+    var value: T
+    var next: LinkedListNode?
+    weak var previous: LinkedListNode?
+
+    public init(value: T) {
+        self.value = value
+    }
+}
+
+public class LinkedList<T> {
+    public typealias Node = LinkedListNode<T>
+    private var head: Node?
+    public var tail: Node?
+
+    func isEmpty() -> Bool {
+        return head == nil
+    }
+
+    public var count: Int {
+        guard var node = head else {
+            return 0
+        }
+        
+        var count = 1
+
+        while let next = node.next {
+            node = next
+            count += 1
+        }
+        return count
+    }
+
+    public func node(atIndex index: Int) -> Node {
+        if index == 0 {
+          return head!
+        } else {
+          var node = head!.next
+          
+          for _ in 1..<index {
+            node = node?.next
+            if node == nil { //(*1)
+              break
+            }
+          }
+          return node!
+        }
+    }
+
+    public func insert(_ node: Node, atIndex index: Int) {
+        let newNode = node
+        if index == 0 {
+            newNode.next = head                      
+            head?.previous = newNode
+            head = newNode
+        } else {
+            let prev = self.node(atIndex: index-1)
+            let next = prev.next
+
+            newNode.previous = prev
+            newNode.next = prev.next
+            prev.next = newNode
+            next?.previous = newNode
+        }
+    }
+
+    public func append(_ value: T) {
+        let newNode = Node(value: value)
+
+        if isEmpty() {
+            head = newNode
+            tail = head
+        } else {
+            newNode.previous = tail
+            tail?.next = newNode
+            tail = newNode
+        }
+    }
+
+    public func remove(_ node: Node) -> Node {
+        let prev = node.previous
+        let next = node.next
+
+        if let prev = prev {
+            prev.next = next
+        } else {
+            head = next
+        }
+
+        if let next = next {
+            next.previous = prev
+            return next
+        } else {
+            tail = prev
+            return tail!
+        }
+    }
+
+    public func reAppend(_ node: Node) {
+        let prev = node.previous
+        let next = node.next
+
+        if let prev = prev {
+            prev.next = node
+        } else {
+            head?.previous = node
+            head = node
+        }
+
+        if let next = next {
+            next.previous = node
+        } else {
+            tail?.next = node
+            tail = node
+        }
+    }
+
+    public func removeAll() {
+        head = nil
+    }
+
+    public func removeLast() -> T {
+        assert(!isEmpty)
+        return remove(node: last!)
+    }
+
+    public func removeAt(_ index: Int) -> T {
+        let node = node(atIndex: index)
+        // assert(node != nil)
+        return remove(node: node)
     }
 }
