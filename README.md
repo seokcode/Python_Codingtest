@@ -109,3 +109,4 @@
 | P | 21.08.21 | 연결리스트 |  [21' kakao 하계 인턴십-표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | Lv.3 | [sol](./readmes/Pdocs/표편집.md) | [sol](./readmes/Sdocs/표편집.md) |
 | P | 21.08.22 | 문자열 |  [21' kakao 공채-광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Lv.3 | [sol](./readmes/Pdocs/광고삽입.md) | [sol](./readmes/Sdocs/광고삽입.md) |
 | L | 21.08.26 | DFS |  [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | [sol](./readmes/Pdocs/number-of-islands.md) | [sol](./readmes/Sdocs/number-of-islands.md) |
+| L | 21.08.26 | DFS |  [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | [sol](./readmes/Pdocs/course-schedule.md) | [sol](./readmes/Sdocs/course-schedule.md) |
