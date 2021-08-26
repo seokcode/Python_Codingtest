@@ -103,9 +103,9 @@
 | P | 21.08.07 | 구현 |  [위클리챌린지-부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | Lv.1 | [sol](./readmes/Pdocs/부족한금액계산하기.md) | [sol](./readmes/Sdocs/부족한금액계산하기.md) |
 | L | 21.08.08 | 구현 |  [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [sol](./readmes/Pdocs/text-justification.md) | |
 | L | 21.08.08 | 구현 |  [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Medium | [sol](./readmes/Pdocs/multiply-strings.md) | [sol](./readmes/Sdocs/multiply-strings.md) |
-| L | 21.08.08 | 구현 |  [3Sum](https://leetcode.com/problems/3sum) | Medium | [sol](./readmes/Pdocs/3sum.md) | [sol](./readmes/Pdocs/3sum.md) |
+| L | 21.08.08 | 구현 |  [3Sum](https://leetcode.com/problems/3sum) | Medium | [sol](./readmes/Pdocs/3sum.md) | [sol](./readmes/Sdocs/3sum.md) |
 | P | 21.08.17 | BFS |  [21' kakao 하계 인턴십-거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 | [sol](./readmes/Pdocs/거리두기확인하기.md) | [sol](./readmes/Sdocs/거리두기확인하기.md) |
 | P | 21.08.19 | 완전탐색(투포인터) |  [20' kakao 하계 인턴십-보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Lv.3 | [sol](./readmes/Pdocs/보석쇼핑.md) | [sol](./readmes/Sdocs/보석쇼핑.md) |
 | P | 21.08.21 | 연결리스트 |  [21' kakao 하계 인턴십-표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | Lv.3 | [sol](./readmes/Pdocs/표편집.md) | [sol](./readmes/Sdocs/표편집.md) |
 | P | 21.08.22 | 문자열 |  [21' kakao 공채-광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Lv.3 | [sol](./readmes/Pdocs/광고삽입.md) | [sol](./readmes/Sdocs/광고삽입.md) |
-
+| L | 21.08.26 | DFS |  [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | [sol](./readmes/Pdocs/number-of-islands.md) | [sol](./readmes/Sdocs/number-of-islands.md) |
