@@ -111,3 +111,4 @@
 | L | 21.08.26 | DFS |  [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | [sol](./readmes/Pdocs/number-of-islands.md) | [sol](./readmes/Sdocs/number-of-islands.md) |
 | L | 21.08.26 | DFS |  [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | [sol](./readmes/Pdocs/course-schedule.md) | [sol](./readmes/Sdocs/course-schedule.md) |
 | P | 21.08.28 | BFS |  [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv.3 | [sol](./readmes/Pdocs/가장먼노드.md) | [sol](./readmes/Sdocs/가장먼노드.md) |
+| P | 21.08.29 | 그래프, 플로이드-와샬 |  [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv.3 | [sol](./readmes/Pdocs/가장먼노드.md) | [sol](./readmes/Sdocs/가장먼노드.md) |
