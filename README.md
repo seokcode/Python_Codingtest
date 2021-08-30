@@ -112,3 +112,5 @@
 | L | 21.08.26 | DFS |  [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | [sol](./readmes/Pdocs/course-schedule.md) | [sol](./readmes/Sdocs/course-schedule.md) |
 | P | 21.08.28 | BFS |  [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv.3 | [sol](./readmes/Pdocs/가장먼노드.md) | [sol](./readmes/Sdocs/가장먼노드.md) |
 | P | 21.08.29 | 그래프, 플로이드-와샬 |  [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv.3 | [sol](./readmes/Pdocs/순위.md) | [sol](./readmes/Sdocs/순위.md) |
+| P | 21.08.30 | 완전탐색 | [위클리챌린지-모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | Lv.3 | [sol](./readmes/Pdocs/모음사전.md) | [sol](./readmes/Sdocs/모음사전.md) 
+
