@@ -19,7 +19,7 @@
 | P | 20.12.17 | DFS,BFS |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | Lv.2 | [sol](./readmes/Pdocs/타겟넘버.md) | [sol](./readmes/Sdocs/타겟넘버.md) |
 | P | 20.12.21 | DFS,BFS |  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | Lv.3 | [sol](./readmes/Pdocs/네트워크.md) | [sol](./readmes/Sdocs/네트워크.md) |
 | P | 20.12.23 | DFS,BFS |  [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | Lv.3 | [sol](./readmes/Pdocs/단어변환.md) | [sol](./readmes/Sdocs/단어변환.md) |
-| P | 20.12.24 | DFS,BFS |  [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Lv.3 | [sol](./readmes/Pdocs/여행경로.md) ||
+| P | 20.12.24 | DFS,BFS |  [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Lv.3 | [sol](./readmes/Pdocs/여행경로.md) | [sol](./readmes/Sdocs/여행경로.md) |
 | P | 20.12.27 | 구현 |  [Summer/Winter Coding 18'-스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv.2 | [sol](./readmes/Pdocs/스킬트리.md) | [sol](./readmes/Sdocs/스킬트리.md) |
 | P | 21.01.23 | 최대공약수 |  [Summer/Winter Coding 19'-멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv.2 | [sol](./readmes/Pdocs/멀쩡한사각형.md) | [sol](./readmes/Sdocs/멀쩡한사각형.md) |
 | P | 21.01.24 | 스택,큐 |  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | [sol](./readmes/Pdocs/프린터.md) | [sol](./readmes/Sdocs/프린터.md) |
@@ -115,3 +115,4 @@
 | P | 21.08.30 | 완전탐색 | [위클리챌린지-모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | Lv.3 | [sol](./readmes/Pdocs/모음사전.md) | |
 | P | 21.08.31 | 문자열 | [18' kakao 공채-추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | Lv.3 | [sol](./readmes/Pdocs/추석트래픽.md) | [sol](./readmes/Sdocs/추석트래픽.md) | 
 | P | 21.09.02 | 구현 |  [Summer/Winter Coding 18'-방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv.2 | [sol](./readmes/Pdocs/방문길이.md) | [sol](./readmes/Sdocs/방문길이.md) |
+| P | 21.09.03 | 완전탐색 |  [20' kakao 동계 인턴십-불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | Lv.2 | [sol](./readmes/Pdocs/불량사용자.md) | [sol](./readmes/Sdocs/불량사용자.md) |
