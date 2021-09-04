@@ -29,7 +29,7 @@
 | P | 21.01.30 | 그리디 |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [sol](./readmes/Pdocs/체육복.md) | [sol](./readmes/Sdocs/체육복.md) |
 | E | 21.01.31 | 그리디 |  [큰 수의 법칙](./readmes/Pdocs/큰수의법칙.md) | 하 | [sol](./readmes/Pdocs/큰수의법칙.md) ||
 | P | 21.01.31 | 그리디 |  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [sol](./readmes/Pdocs/큰수만들기.md) ||
-| P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./readmes/Pdocs/문자열압축.md) ||
+| P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./readmes/Pdocs/문자열압축.md) | [sol](./readmes/Sdocs/문자열압축.md) |
 | P | 21.02.02 | 구현 |  [20' kakao 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [sol](./readmes/Pdocs/자물쇠와열쇠.md) ||
 | B | 21.02.11 | 구현 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./readmes/Pdocs/시험감독.md) | [sol](./readmes/Sdocs/시험감독.md) |
 | B | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [sol](./readmes/Pdocs/A-B.md) ||
@@ -115,4 +115,4 @@
 | P | 21.08.30 | 완전탐색 | [위클리챌린지-모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | Lv.3 | [sol](./readmes/Pdocs/모음사전.md) | |
 | P | 21.08.31 | 문자열 | [18' kakao 공채-추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | Lv.3 | [sol](./readmes/Pdocs/추석트래픽.md) | [sol](./readmes/Sdocs/추석트래픽.md) | 
 | P | 21.09.02 | 구현 |  [Summer/Winter Coding 18'-방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv.2 | [sol](./readmes/Pdocs/방문길이.md) | [sol](./readmes/Sdocs/방문길이.md) |
-| P | 21.09.03 | 완전탐색 |  [20' kakao 동계 인턴십-불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | Lv.2 | [sol](./readmes/Pdocs/불량사용자.md) | [sol](./readmes/Sdocs/불량사용자.md) |
+| P | 21.09.03 | 완전탐색 |  [20' kakao 동계 인턴십-불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | Lv.3 | [sol](./readmes/Pdocs/불량사용자.md) | |
