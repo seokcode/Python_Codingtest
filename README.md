@@ -116,3 +116,4 @@
 | P | 21.08.31 | 문자열 | [18' kakao 공채-추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | Lv.3 | [sol](./readmes/Pdocs/추석트래픽.md) | [sol](./readmes/Sdocs/추석트래픽.md) | 
 | P | 21.09.02 | 구현 |  [Summer/Winter Coding 18'-방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv.2 | [sol](./readmes/Pdocs/방문길이.md) | [sol](./readmes/Sdocs/방문길이.md) |
 | P | 21.09.03 | 완전탐색 |  [20' kakao 동계 인턴십-불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | Lv.3 | [sol](./readmes/Pdocs/불량사용자.md) | |
+| P | 21.09.07 | 힙 |  [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 | [sol](./readmes/Pdocs/디스크컨트롤러.md) | |
