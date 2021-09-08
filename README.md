@@ -32,7 +32,7 @@
 | P | 21.01.31 | 스택 |  [20' kakao 공채-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Lv.2 | [sol](./readmes/Pdocs/문자열압축.md) | [sol](./readmes/Sdocs/문자열압축.md) |
 | P | 21.02.02 | 구현 |  [20' kakao 공채-자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv.3 | [sol](./readmes/Pdocs/자물쇠와열쇠.md) | [sol](./readmes/Sdocs/자물쇠와열쇠.md) |
 | B | 21.02.11 | 구현 |  [삼성 SW역량테스트 기출-시험 감독](https://www.acmicpc.net/problem/13458) | B2 | [sol](./readmes/Pdocs/시험감독.md) | [sol](./readmes/Sdocs/시험감독.md) |
-| B | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [sol](./readmes/Pdocs/A-B.md) ||
+| B | 21.02.11 | 그리디, BFS |  [삼성 SW역량테스트 기출-A->B](https://www.acmicpc.net/problem/16953) | S1 | [sol](./readmes/Pdocs/A-B.md) | [sol](./readmes/Sdocs/A-B.md) |
 | P | 21.02.12 | 그리디 |  [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Lv.2 | [sol](./readmes/Pdocs/구명보트.md) ||
 | P | 21.02.13 | 그리디 |  [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 | [sol](./readmes/Pdocs/단속카메라.md) ||
 | P | 21.02.17 | 스택,큐 |  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | Lv.2 | [sol](./readmes/Pdocs/주식가격.md) ||
