@@ -123,3 +123,4 @@
 | P | 21.09.18 | 구현,투포인터 |  [위클리 챌린지-입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | Lv.2 | [sol](./readmes/Pdocs/입실퇴실.md) | [sol](./readmes/Sdocs/입실퇴실.md) |
 | L | 21.09.19 | DP, 투포인터 |  [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | [sol](./readmes/Pdocs/jump-game-ii.md) | [sol](./readmes/Sdocs/jump-game-ii.md) |
 | L | 21.09.24 | 완탐, 백트래킹 |  [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard | [sol](./readmes/Pdocs/sudoku-solver.md) | |
+| L | 21.09.25 | 문자열, 구현 |  [Sudoku Solver](https://leetcode.com/problems/zigzag-conversion) | Medium | [sol](./readmes/Pdocs/zigzag-conversion.md) | |
