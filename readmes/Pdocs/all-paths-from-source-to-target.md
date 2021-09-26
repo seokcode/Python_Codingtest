@@ -1,7 +1,7 @@
 # All Paths From Source to Target
 > **Medium**
 >
-> **2021-03-03**
+> **2021-09-25**
 >
 > **[Leetcode: All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)**
 
