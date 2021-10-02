@@ -35,6 +35,17 @@ class Solution:
 > 점프 횟수 별로 갈 수 있는 최대 거리를 계산해보는 방법.  
 > Runtime: 120 ms, faster than 88.73% of Python3 online submissions for Jump Game II.  
 > Memory Usage: 15.2 MB, less than 46.55% of Python3 online submissions for Jump Game II.
+
+[2,3,1,1,4] 로 예를 들자.
+
+1. [`2`,3,1,1,4] 
+    * nJumps = 1
+    * lp: 0, rp: 0, furthest: max(0+2) = 2
+2. [2,`3,1`,1,4]
+    * nJumps = 2
+    * lp, rp = rp+1, furthest
+    * lp: 1, rp: 2, furthest: max(1+3, 1+2) = `4` -> 목적지 도달, 끝!
+
 ```python
 class Solution:
     def jump(self, nums: List[int]) -> int:
