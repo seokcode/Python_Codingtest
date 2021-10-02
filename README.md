@@ -126,3 +126,4 @@
 | L | 21.09.25 | 문자열, 구현 |  [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | [sol](./readmes/Pdocs/zigzag-conversion.md) | |
 | L | 21.09.25 | 완전탐색, 백트래킹 |  [All Path from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | Medium | [sol](./readmes/Pdocs/all-paths-from-source-to-target.md) | [sol](./readmes/Sdocs/all-paths-from-source-to-target.md) |
 | L | 21.09.26 | DFS |  [Word Search](https://leetcode.com/problems/word-search) | Medium | [sol](./readmes/Pdocs/word-search.md) | |
+| P | 21.10.02 | 완탐, 백트래킹 |  [N Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) | Lv.3 | [sol](./readmes/Pdocs/NQueen.md) | |
