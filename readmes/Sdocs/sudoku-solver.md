@@ -13,7 +13,7 @@
 옳지 않은 숫자가 들어가서 완성되지 못하는 경우에는 board[r][c] = "."로 다시 초기화해준다 **(매우 중요)**
 
 ## 답안
-> Runtime: 44 ms, faster than 88.07% of Swift online submissions for Sudoku Solver.
+> Runtime: 44 ms, faster than 88.07% of Swift online submissions for Sudoku Solver.  
 > Memory Usage: 14.3 MB, less than 80.73% of Swift online submissions for Sudoku Solver.
 ```swift
 class Solution {
