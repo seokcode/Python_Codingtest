@@ -1,7 +1,7 @@
 # ZigZag Conversion
 > **Medium**
 >
-> **2021-03-03**
+> **2021-09-25**
 >
 > **[Leetcode: ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)**
 
