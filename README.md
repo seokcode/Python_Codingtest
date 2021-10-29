@@ -127,7 +127,7 @@
 | L | 21.09.25 | 완전탐색, 백트래킹 |  [All Path from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | Medium | [sol](./readmes/Pdocs/all-paths-from-source-to-target.md) | [sol](./readmes/Sdocs/all-paths-from-source-to-target.md) |
 | L | 21.09.26 | DFS |  [Word Search](https://leetcode.com/problems/word-search) | Medium | [sol](./readmes/Pdocs/word-search.md) | [sol](./readmes/Sdocs/word-search.md) |
 | P | 21.10.02 | 완탐, 백트래킹 |  [N Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) | Lv.3 | [sol](./readmes/Pdocs/NQueen.md) | |
-| L | 21.10.02 | DP, 투포인터 |  [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [sol](./readmes/Pdocs/jump-game.md) | |
+| L | 21.10.02 | DP, 투포인터 |  [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [sol](./readmes/Pdocs/jump-game.md) | [sol](./readmes/Sdocs/jump-game.md) |
 | L | 21.10.03 | DP |  [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | [sol](./readmes/Pdocs/unique-paths.md) | |
 | L | 21.10.03 | DP |  [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | [sol](./readmes/Pdocs/unique-paths-ii.md) | |
 | B | 21.10.08 | 이분탐색 | [피자굽기](https://www.acmicpc.net/problem/1756) | G5 | [sol](./readmes/Pdocs/피자굽기.md) | |
