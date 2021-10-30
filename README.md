@@ -134,3 +134,5 @@
 | B | 21.10.08 | 이분탐색 | [중량제한](https://www.acmicpc.net/problem/1939) | G4 | [sol](./readmes/Pdocs/중량제한.md) | |
 | L | 21.10.10 | 시뮬레이션 |  [Game of Life](https://leetcode.com/problems/game-of-life) | Medium | [sol](./readmes/Pdocs/game-of-life.md) | |
 | B | 21.10.10 | 그리디 | [단어수학](https://www.acmicpc.net/problem/1339) | G4 | [sol](./readmes/Pdocs/단어수학.md) | |
+| B | 21.10.30 | Union Find | [여행가자](https://www.acmicpc.net/problem/1976) | G4 | [sol](./readmes/Pdocs/여행가자.md) | |
+| B | 21.10.30 | Union Find | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | G4 | [sol](./readmes/Pdocs/가장가까운공통조상.md) | |
