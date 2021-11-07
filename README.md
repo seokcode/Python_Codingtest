@@ -11,7 +11,7 @@
 | :-----------: | :---------- | :---------- | :---------- | :----------: | :----------: |  :----------: |
 | P | 20.12.08 | 정렬 |  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [sol](./readmes/Pdocs/K번째수.md) | [sol](./readmes/Sdocs/K번째수.md) |
 | P | 20.12.08 | 정렬 |  [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Lv.2 | [sol](./readmes/Pdocs/가장큰수.md) | [sol](./readmes/Sdocs/가장큰수.md) |
-| P | 20.12.08 | 이분탐색,브루트포스 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [sol](./readmes/Pdocs/H-Index.md) | [sol](./readmes/Sdocs/H-Index.md) |
+| P | 20.12.08 | 이진탐색,브루트포스 |  [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Lv.2 | [sol](./readmes/Pdocs/H-Index.md) | [sol](./readmes/Sdocs/H-Index.md) |
 | P | 20.12.10 | 브루트포스 |  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | Lv.1 | [sol](./readmes/Pdocs/모의고사.md) | [sol](./readmes/Sdocs/모의고사.md) |
 | P | 20.12.13 | 브루트포스 |  [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [sol](./readmes/Pdocs/소수찾기.md) | [sol](./readmes/Sdocs/소수찾기.md) |
 | P | 20.12.15 | 스택 |  [19' kakao 겨울 인턴십-크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 쉬움 | [sol](./readmes/Pdocs/크레인인형뽑기게임.md) | [sol](./readmes/Sdocs/크레인인형뽑기게임.md) |
@@ -47,7 +47,7 @@
 | P | 21.03.04 | 구현 |  [18' kakao 공채-프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv.2 | [sol](./readmes/Pdocs/프렌즈4블록.md) ||
 | P | 21.03.06 | 구현(LRU) |  [18' kakao 공채-캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv.2 | [sol](./readmes/Pdocs/캐시.md) ||
 | P | 21.03.07 | 정렬 |  [18' kakao 공채-파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv.2 | [sol](./readmes/Pdocs/파일명정렬.md) ||
-| P | 21.03.09 | 해시,이분탐색 |  [21' kakao 공채-순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv.2 | [sol](./readmes/Pdocs/순위검색.md) ||
+| P | 21.03.09 | 해시, 이진탐색 |  [21' kakao 공채-순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv.2 | [sol](./readmes/Pdocs/순위검색.md) ||
 | P | 21.03.10 | 해시 |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2 | [sol](./readmes/Pdocs/위장.md) | [sol](./readmes/Sdocs/위장.md) |
 | P | 21.03.13 | 해시 |  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv.2 | [sol](./readmes/Pdocs/전화번호목록.md) | - |
 | P | 21.03.14 | 해시 |  [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3 | [sol](./readmes/Pdocs/베스트앨범.md) | [sol](./readmes/Sdocs/베스트앨범.md) |
@@ -73,7 +73,7 @@
 | P | 21.04.16 | 구현 |  [월간 코드 챌린지2-음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv.1 | [sol](./readmes/Pdocs/음양더하기.md) | [sol](./readmes/Sdocs/음양더하기.md)  |
 | P | 21.04.16 | 스택,큐 |  [월간 코드 챌린지2-괄호회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv.2 | [sol](./readmes/Pdocs/괄호회전하기.md) | [sol](./readmes/Sdocs/괄호회전하기.md) |
 | P | 21.04.28 | DP |  [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | Lv.3 | [sol](./readmes/Pdocs/정수삼각형.md) | - |
-| P | 21.04.30 | 이분탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./readmes/Pdocs/입국심사.md) | [sol](./readmes/Sdocs/입국심사.md) |
+| P | 21.04.30 | 이진탐색 |  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv.3 | [sol](./readmes/Pdocs/입국심사.md) | [sol](./readmes/Sdocs/입국심사.md) |
 | P | 21.05.02 | 조합(DFS) |  [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv.2 | [sol](./readmes/Pdocs/후보키.md) | |
 | P | 21.05.05 | 구현 |  [19' kakao 공채-실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv.1 | [sol](./readmes/Pdocs/실패율.md) | [sol](./readmes/Sdocs/실패율.md) |
 | P | 21.05.06 | BFS |  [Summer/Winter Coding 18'-배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv.2 | [sol](./readmes/Pdocs/배달.md) | |
@@ -87,8 +87,8 @@
 | B | 21.05.23 | DP |  [쉬운계단수](https://www.acmicpc.net/problem/10844) | S1 | [sol](./readmes/Pdocs/쉬운계단수.md) | [sol](./readmes/Sdocs/쉬운계단수.md) | 
 | P | 21.05.23 | 스택,큐 |  [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv.2 | [sol](./readmes/Pdocs/짝지어제거하기.md) | [sol](./readmes/Sdocs/짝지어제거하기.md) | 
 | P | 21.05.23 | 구현 |  [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv.2 | [sol](./readmes/Pdocs/예상대진표.md) | [sol](./readmes/Sdocs/예상대진표.md) | 
-| B | 21.06.06 | 이분탐색 |  [랜선자르기](https://www.acmicpc.net/problem/1654) | S3 | [sol](./readmes/Pdocs/랜선자르기.md) | [sol](./readmes/Sdocs/랜선자르기.md) | 
-| B | 21.06.06 | 이분탐색 |  [나무자르기](https://www.acmicpc.net/problem/2805) | S3 | [sol](./readmes/Pdocs/나무자르기.md) | [sol](./readmes/Sdocs/랜선자르기.md) | 
+| B | 21.06.06 | 이진탐색 |  [랜선자르기](https://www.acmicpc.net/problem/1654) | S3 | [sol](./readmes/Pdocs/랜선자르기.md) | [sol](./readmes/Sdocs/랜선자르기.md) | 
+| B | 21.06.06 | 이진탐색 |  [나무자르기](https://www.acmicpc.net/problem/2805) | S3 | [sol](./readmes/Pdocs/나무자르기.md) | [sol](./readmes/Sdocs/랜선자르기.md) | 
 | P | 21.06.19 | 그리디 |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | Lv.2 | [sol](./readmes/Pdocs/조이스틱.md) |  | 
 | P | 21.06.20 | 그리디 |  [최솟값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv.2 | [sol](./readmes/Pdocs/최솟값만들기.md) | [sol](./readmes/Sdocs/최솟값만들기.md) | 
 | P | 21.06.20 | 문자열 |  [JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv.2 | [sol](./readmes/Pdocs/JadenCase문자열만들기.md) |  |
@@ -130,11 +130,15 @@
 | L | 21.10.02 | DP, 투포인터 |  [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [sol](./readmes/Pdocs/jump-game.md) | [sol](./readmes/Sdocs/jump-game.md) |
 | L | 21.10.03 | DP |  [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | [sol](./readmes/Pdocs/unique-paths.md) | |
 | L | 21.10.03 | DP |  [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | [sol](./readmes/Pdocs/unique-paths-ii.md) | |
-| B | 21.10.08 | 이분탐색 | [피자굽기](https://www.acmicpc.net/problem/1756) | G5 | [sol](./readmes/Pdocs/피자굽기.md) | |
-| B | 21.10.08 | 이분탐색 | [중량제한](https://www.acmicpc.net/problem/1939) | G4 | [sol](./readmes/Pdocs/중량제한.md) | |
+| B | 21.10.08 | 이진탐색 | [피자굽기](https://www.acmicpc.net/problem/1756) | G5 | [sol](./readmes/Pdocs/피자굽기.md) | |
+| B | 21.10.08 | 이진탐색 | [중량제한](https://www.acmicpc.net/problem/1939) | G4 | [sol](./readmes/Pdocs/중량제한.md) | |
 | L | 21.10.10 | 시뮬레이션 |  [Game of Life](https://leetcode.com/problems/game-of-life) | Medium | [sol](./readmes/Pdocs/game-of-life.md) | |
 | B | 21.10.10 | 그리디 | [단어수학](https://www.acmicpc.net/problem/1339) | G4 | [sol](./readmes/Pdocs/단어수학.md) | |
 | B | 21.10.30 | Union Find | [여행가자](https://www.acmicpc.net/problem/1976) | G4 | [sol](./readmes/Pdocs/여행가자.md) | |
 | B | 21.10.30 | Union Find | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | G4 | [sol](./readmes/Pdocs/가장가까운공통조상.md) | |
 | P | 21.10.31 | 구현,그리디 |  [위클리 챌린지-최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/12952) | Lv.1 | [sol](./readmes/Pdocs/최소직사각형.md) | |
 | P | 21.10.31 | DFS,BFS |  [위클리 챌린지-전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | Lv.2 | [sol](./readmes/Pdocs/전력망을둘로나누기.md) | |
+| L | 21.11.07 | 이진탐색 |  [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [sol](./readmes/Pdocs/binary-search.md) | [sol](./readmes/Sdocs/binary-search.md)  |
+| L | 21.11.07 | 이진탐색 |  [First Bad Version.](https://leetcode.com/problems/first-bad-version) | Easy | [sol](./readmes/Pdocs/first-bad-version.md) | [sol](./readmes/Sdocs/first-bad-version.md)  |
+| L | 21.11.07 | 이진탐색 |  [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [sol](./readmes/Pdocs/search-insert-position.md) | [sol](./readmes/Sdocs/search-insert-position.md)  |
+| L | 21.11.07 | 구현 |  [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [sol](./readmes/Pdocs/squares-of-a-sorted-array.md) | [sol](./readmes/Sdocs/squares-of-a-sorted-array.md)  |
