@@ -13,7 +13,7 @@
 만약 target이 nums에 없다면 들어갈 위치를 return한다.
 
 ## 답안
-> Runtime: 52 ms, faster than 57.48% of Python3 online submissions for Search Insert Position.
+> Runtime: 52 ms, faster than 57.48% of Python3 online submissions for Search Insert Position.  
 > Memory Usage: 14.9 MB, less than 81.94% of Python3 online submissions for Search Insert Position.
 ```python
 class Solution:

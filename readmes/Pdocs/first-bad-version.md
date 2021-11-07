@@ -13,7 +13,7 @@ isBadVersion이라는 이미 정의된 API를 호출해서 1~n 의 버젼 중 �
 > 만약 버젼 3이 첫 Bad Version이면 3 이상의 모든 버젼은 전부 Bad Version이다.
 
 ## 답안
-> Runtime: 28 ms, faster than 83.68% of Python3 online submissions for First Bad Version.
+> Runtime: 28 ms, faster than 83.68% of Python3 online submissions for First Bad Version.  
 > Memory Usage: 14.3 MB, less than 44.40% of Python3 online submissions for First Bad Version.
 ```python
 # The isBadVersion API is already defined for you.

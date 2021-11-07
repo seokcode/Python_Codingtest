@@ -11,7 +11,7 @@
 문제 이름처럼 이진탐색을 통해 풀이해주었다.
 
 ## 답안
-> Runtime: 280 ms, faster than 98.55% of Swift online submissions for Binary Search.
+> Runtime: 280 ms, faster than 98.55% of Swift online submissions for Binary Search.  
 > Memory Usage: 14.1 MB, less than 63.80% of Swift online submissions for Binary Search.
 ```swift
 class Solution {

@@ -13,7 +13,7 @@
 만약 target이 nums에 없다면 들어갈 위치를 return한다.
 
 ## 답안
-> Runtime: 28 ms, faster than 90.92% of Swift online submissions for Search Insert Position.
+> Runtime: 28 ms, faster than 90.92% of Swift online submissions for Search Insert Position.  
 > Memory Usage: 14.4 MB, less than 24.44% of Swift online submissions for Search Insert Position.
 ```swift
 class Solution {

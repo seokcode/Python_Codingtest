@@ -10,7 +10,7 @@
 주어지는 nums 배열 내 숫자를 제곱하고 정렬된 배열로 만드는 문제
 
 ## 답안
-> Runtime: 232 ms, faster than 67.44% of Python3 online submissions for Squares of a Sorted Array.
+> Runtime: 232 ms, faster than 67.44% of Python3 online submissions for Squares of a Sorted Array.  
 > Memory Usage: 15.8 MB, less than 91.16% of Python3 online submissions for Squares of a Sorted Array.
 ```python
 class Solution:

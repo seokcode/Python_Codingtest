@@ -13,7 +13,7 @@
 문제 이름처럼 이진탐색을 통해 풀이해주었다.
 
 ## 답안
-> Runtime: 232 ms, faster than 85.87% of Python3 online submissions for Binary Search.
+> Runtime: 232 ms, faster than 85.87% of Python3 online submissions for Binary Search.  
 > Memory Usage: 15.5 MB, less than 69.92% of Python3 online submissions for Binary Search.
 ```python
 class Solution:
