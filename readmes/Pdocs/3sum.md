@@ -16,7 +16,7 @@ Constraints:
 세 수의 합이 0인 조합을 구하기 위해 combination으로 모든 경우의 수를 구해주려하면 시간 초과가 나게 된다.
 따라서 주어진 nums 배열을 정렬한 뒤 투 포인터를 이용하여 문제를 풀어주어야 한다.
 
-##
+## 답안
 ```python
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
