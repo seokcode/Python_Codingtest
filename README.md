@@ -142,7 +142,7 @@
 | L | 21.11.07 | 이진탐색 |  [First Bad Version.](https://leetcode.com/problems/first-bad-version) | Easy | [sol](./readmes/Pdocs/first-bad-version.md) | [sol](./readmes/Sdocs/first-bad-version.md)  |
 | L | 21.11.07 | 이진탐색 |  [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | [sol](./readmes/Pdocs/search-insert-position.md) | [sol](./readmes/Sdocs/search-insert-position.md)  |
 | L | 21.11.07 | 구현 |  [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [sol](./readmes/Pdocs/squares-of-a-sorted-array.md) | [sol](./readmes/Sdocs/squares-of-a-sorted-array.md)  |
-| L | 21.11.14 | 문자열 |  [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | [sol](./readmes/Pdocs/rotate-array.md) | |
-| L | 21.11.14 | 문자열 |  [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [sol](./readmes/Pdocs/move-zeroes.md) | |
-| L | 21.11.14 | 투포인터 |  [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)| Easy | [sol](./readmes/Pdocs/two-sum-ii-input-array-is-sorted.md) | |
+| L | 21.11.14 | 문자열 |  [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | [sol](./readmes/Pdocs/rotate-array.md) | [sol](./readmes/Sdocs/rotate-array.md)  |
+| L | 21.11.14 | 문자열 |  [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [sol](./readmes/Pdocs/move-zeroes.md) | [sol](./readmes/Sdocs/move-zeroes.md) |
+| L | 21.11.14 | 투포인터 |  [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)| Easy | [sol](./readmes/Pdocs/two-sum-ii-input-array-is-sorted.md) |  [sol](./readmes/Sdocs/two-sum-ii-input-array-is-sorted.md)  |
 | L | 21.11.14 | 문자열 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [sol](./readmes/Pdocs/reverse-words-in-a-string-iii.md) | |
