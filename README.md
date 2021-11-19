@@ -136,7 +136,7 @@
 | B | 21.10.10 | 그리디 | [단어수학](https://www.acmicpc.net/problem/1339) | G4 | [sol](./readmes/Pdocs/단어수학.md) | |
 | B | 21.10.30 | Union Find | [여행가자](https://www.acmicpc.net/problem/1976) | G4 | [sol](./readmes/Pdocs/여행가자.md) | |
 | B | 21.10.30 | Union Find | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | G4 | [sol](./readmes/Pdocs/가장가까운공통조상.md) | |
-| P | 21.10.31 | 구현,그리디 |  [위클리 챌린지-최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | Lv.1 | [sol](./readmes/Pdocs/최소직사각형.md) | |
+| P | 21.10.31 | 구현,그리디 |  [위클리 챌린지-최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | Lv.1 | [sol](./readmes/Pdocs/최소직사각형.md) | [sol](./readmes/Sdocs/최소직사각형.md) |
 | P | 21.10.31 | DFS,BFS |  [위클리 챌린지-전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | Lv.2 | [sol](./readmes/Pdocs/전력망을둘로나누기.md) | |
 | L | 21.11.07 | 이진탐색 |  [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [sol](./readmes/Pdocs/binary-search.md) | [sol](./readmes/Sdocs/binary-search.md)  |
 | L | 21.11.07 | 이진탐색 |  [First Bad Version.](https://leetcode.com/problems/first-bad-version) | Easy | [sol](./readmes/Pdocs/first-bad-version.md) | [sol](./readmes/Sdocs/first-bad-version.md)  |
