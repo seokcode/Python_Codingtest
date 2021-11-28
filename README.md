@@ -146,3 +146,7 @@
 | L | 21.11.14 | 문자열 |  [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [sol](./readmes/Pdocs/move-zeroes.md) | [sol](./readmes/Sdocs/move-zeroes.md) |
 | L | 21.11.14 | 투포인터 |  [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)| Easy | [sol](./readmes/Pdocs/two-sum-ii-input-array-is-sorted.md) |  [sol](./readmes/Sdocs/two-sum-ii-input-array-is-sorted.md)  |
 | L | 21.11.14 | 문자열 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [sol](./readmes/Pdocs/reverse-words-in-a-string-iii.md) | |
+| P | 21.11.28 | DFS |  [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | Lv.2 | [sol](./readmes/Pdocs/피로도.md) | |
+| P | 21.11.28 | 문자열 |  [N^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | Lv.2 | [sol](./readmes/Pdocs/n^2배열자르기.md) | |
+| L | 21.11.28 | 투포인터 |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| Medium | [sol](./readmes/Pdocs/container-with-most-water.md) | |
+| L | 21.11.28 | 문자열 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [sol](./readmes/Pdocs/longest-common-prefix.md) | |
