@@ -154,3 +154,7 @@
 | P | 21.12.10 | 구현 |  [18' kakao 공채-셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | Lv.3 | [sol](./readmes/Pdocs/셔틀버스.md) | |
 | B | 21.12.12 | 정규표현식 | [잠수함식별](https://www.acmicpc.net/problem/2671) | G5 | [sol](./readmes/Pdocs/잠수함식별.md) | [sol](./readmes/Sdocs/잠수함식별.md) |
 | L | 21.12.12 | 스택,큐 |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Medium | [sol](./readmes/Pdocs/valid-parentheses.md) | [sol](./readmes/Sdocs/valid-parentheses.md) |
+| L | 22.01.16 | 구현 |  [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [sol](./readmes/Pdocs/two-sum.md) | |
+| L | 22.01.16 | 구현 |  [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [sol](./readmes/Pdocs/roman-to-integer.md) | |
+| L | 22.01.16 | 스택 |  [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | [sol](./readmes/Pdocs/daily-temperatures.md) | |
+| L | 22.01.16 | 구현 |  [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [sol](./readmes/Pdocs/rotate-image.md) | |
